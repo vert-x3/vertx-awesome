@@ -12,6 +12,7 @@ Sort everything alphabetically!
 ## Contents
 
 - [Database Clients](#database-clients)
+- [Integration](#integration)
 - [Programming Languages](#programming-languages)
 
 ## Database Clients
@@ -26,6 +27,12 @@ Libraries for connecting to databases.
 * NoSQL Databases
   * [MongoDB](https://github.com/vert-x3/vertx-mongo-client) ![(stack)](stack.png "Vert.x Stack") - An asynchronous client for interacting with a MongoDB database
   * [Redis](https://github.com/vert-x3/vertx-redis-client) ![(stack)](stack.png "Vert.x Stack") - Asynchronous API to interact with Redis
+
+## Integration
+
+*Integration support for Vert.x*
+
+* [Meteor](https://github.com/jmusacchio/vertxbus/) - Meteor integration support through Vert.x event bus
 
 ## Programming Languages
 
