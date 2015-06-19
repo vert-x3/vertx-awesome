@@ -12,6 +12,7 @@ Sort everything alphabetically!
 ## Contents
 
 - [Database Clients](#database-clients)
+- [Integration](#integration)
 - [Programming Languages](#programming-languages)
 
 ## Database Clients
@@ -35,6 +36,9 @@ Clients for connecting to databases.
 * Messaging
   * [AMQP 1.0](https://github.com/vert-x3/vertx-amqp-service) - Async AMQP 1.0 bridge
   * [RabbitMQ](https://github.com/vert-x3/vertx-rabbitmq-client) - RabbitMQ client (AMQP 0.9.4)
+
+* Meteor
+  * [Meteor](https://github.com/jmusacchio/vertxbus/) - Meteor integration support through Vert.x event bus
 
 
 ## Programming Languages
