@@ -1,13 +1,9 @@
 # vertx-awesome
 
-A curated list of awesome [Vert.x](https://github.com/eclipse/vert.x) frameworks,
-libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
+Vert.x Awesome is an list of awesome frameworks, libraries or other components for use with
+[Vert.x](https://github.com/eclipse/vert.x).
 
-## Contributing
-
-**TODO** Add CONTRIBUTING guide
-
-Sort everything alphabetically!
+If you want your component to appear here, send a pull request to this repository to add it.
 
 ## Contents
 
@@ -53,3 +49,7 @@ Clients for connecting to databases.
 * [Ruby](https://github.com/vert-x3/vertx-lang-ruby) ![(stack)](stack.png "Vert.x Stack") - Ruby support
 * [Scala](https://github.com/vert-x3/vertx-lang-scala) - Scala support
 * [TypeScript](https://github.com/michel-kraemer/vertx-lang-typescript) - TypeScript support
+
+## Cloud support
+
+TODO docker, openshift, heroku etc
