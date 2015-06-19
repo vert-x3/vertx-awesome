@@ -16,7 +16,7 @@ Sort everything alphabetically!
 
 ## Database Clients
 
-Libraries for connecting to databases.
+Clients for connecting to databases.
 
 * Relational Databases
   * [JDBC](https://github.com/vert-x3/vertx-jdbc-client) ![(stack)](stack.png "Vert.x Stack") - Asynchronous interface around a JDBC datasource
@@ -26,6 +26,16 @@ Libraries for connecting to databases.
 * NoSQL Databases
   * [MongoDB](https://github.com/vert-x3/vertx-mongo-client) ![(stack)](stack.png "Vert.x Stack") - An asynchronous client for interacting with a MongoDB database
   * [Redis](https://github.com/vert-x3/vertx-redis-client) ![(stack)](stack.png "Vert.x Stack") - Asynchronous API to interact with Redis
+
+## Integration
+
+* Mail
+  * [SMTP](https://github.com/vert-x3/vertx-mail-client) - Async SMTP client
+
+* Messaging
+  * [AMQP 1.0](https://github.com/vert-x3/vertx-amqp-service) - Async AMQP 1.0 bridge
+  * [RabbitMQ](https://github.com/vert-x3/vertx-rabbitmq-client) - RabbitMQ client (AMQP 0.9.4)
+
 
 ## Programming Languages
 
