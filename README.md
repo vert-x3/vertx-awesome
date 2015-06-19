@@ -33,11 +33,14 @@ Clients for connecting to databases.
   * [AMQP 1.0](https://github.com/vert-x3/vertx-amqp-service) - Async AMQP 1.0 bridge
   * [RabbitMQ](https://github.com/vert-x3/vertx-rabbitmq-client) - RabbitMQ client (AMQP 0.9.4)
 
+* JavaEE
+  * [JCA adaptor](https://github.com/vert-x3/vertx-jca) - Java Connector Architecture Adaptor for the Vert.x event bus
+
 * Meteor
   * [Meteor](https://github.com/jmusacchio/vertxbus/) - Meteor integration support through Vert.x event bus
 
 
-## Programming Languages
+## Language Support
 
 *Programming language support for Vert.x*
 
@@ -52,4 +55,11 @@ Clients for connecting to databases.
 
 ## Cloud support
 
-TODO docker, openshift, heroku etc
+* [OpenShift DIY cartridge](https://github.com/vert-x3/vertx-openshift-diy-quickstart) - OpenShift DIY Cartridge using Vert.x
+* [OpenShift Vert.x cartridge](https://github.com/vert-x3/vertx-openshift-cartridge) - OpenShift Vert.x Cartridge using Vert.x
+
+## Docker
+
+* [Docker images](https://github.com/vert-x3/vertx-stack/tree/master/stack-docker) - Docker images for Vert.x
+
+
