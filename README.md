@@ -1,9 +1,11 @@
 # vertx-awesome
 
 Vert.x Awesome is an list of awesome frameworks, libraries or other components for use with
-[Vert.x](https://github.com/eclipse/vert.x).
+[Vert.x](https://github.com/eclipse/vert.x) version 3.
 
 If you want your component to appear here, send a pull request to this repository to add it.
+
+For vert.x version 2, check [this page](./vert-x2.md)
 
 ## Contents
 
@@ -67,5 +69,3 @@ If you want your component to appear here, send a pull request to this repositor
 ## Docker
 
 * [Docker images](https://github.com/vert-x3/vertx-stack/tree/master/stack-docker) - Docker images for Vert.x
-
-
