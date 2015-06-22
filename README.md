@@ -5,7 +5,7 @@ Vert.x Awesome is an list of awesome frameworks, libraries or other components f
 
 If you want your component to appear here, send a pull request to this repository to add it.
 
-For vert.x version 2, check [this page](./vert-x2.md)
+For vert.x version 2, check [this page](./vert-x2.md).
 
 ## Contents
 
