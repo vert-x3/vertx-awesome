@@ -9,11 +9,14 @@ If you want your component to appear here, send a pull request to this repositor
 
 - [Database Clients](#database-clients)
 - [Integration](#integration)
-- [Programming Languages](#programming-languages)
+- [Language Support](#language-support)
+- [Vert.x Event Bus Clients](#vert.x-event-bus-clients)
+- [Cloud Support](#cloud-support)
+- [Docker](#docker)
 
 ## Database Clients
 
-Clients for connecting to databases.
+*Clients for connecting to databases*
 
 * Relational Databases
   * [JDBC](https://github.com/vert-x3/vertx-jdbc-client) ![(stack)](stack.png "Vert.x Stack") - Asynchronous interface around a JDBC datasource
@@ -39,7 +42,6 @@ Clients for connecting to databases.
 * Meteor
   * [Meteor](https://github.com/jmusacchio/vertxbus/) - Meteor integration support through Vert.x event bus
 
-
 ## Language Support
 
 *Programming language support for Vert.x*
@@ -53,7 +55,11 @@ Clients for connecting to databases.
 * [Scala](https://github.com/vert-x3/vertx-lang-scala) - Scala support
 * [TypeScript](https://github.com/michel-kraemer/vertx-lang-typescript) - TypeScript support
 
-## Cloud support
+## Vert.x Event Bus Clients
+
+* [C++11](https://github.com/julien3/vertxbuspp) - C++11 event bus client
+
+## Cloud Support
 
 * [OpenShift DIY cartridge](https://github.com/vert-x3/vertx-openshift-diy-quickstart) - OpenShift DIY Cartridge using Vert.x
 * [OpenShift Vert.x cartridge](https://github.com/vert-x3/vertx-openshift-cartridge) - OpenShift Vert.x Cartridge using Vert.x
