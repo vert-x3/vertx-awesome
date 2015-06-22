@@ -13,8 +13,10 @@ For vert.x version 2, check [this page](./vert-x2.md).
 - [Integration](#integration)
 - [Language Support](#language-support)
 - [Vert.x Event Bus Clients](#vert.x-event-bus-clients)
+- [Cluster Managers](#cluster-managers)
 - [Cloud Support](#cloud-support)
 - [Docker](#docker)
+- [Search engines](#search-engines)
 
 ## Database Clients
 
@@ -44,6 +46,9 @@ For vert.x version 2, check [this page](./vert-x2.md).
 * Meteor
   * [Meteor](https://github.com/jmusacchio/vertxbus/) - Meteor integration support through Vert.x event bus
 
+* Metrics
+ * [Hawkular metrics](https://github.com/tsegismont/vertx-monitor) -  [Hawkular](http://www.hawkular.org/) implementation of the Vert.x Metrics SPI
+
 ## Language Support
 
 *Programming language support for Vert.x*
@@ -59,7 +64,15 @@ For vert.x version 2, check [this page](./vert-x2.md).
 
 ## Vert.x Event Bus Clients
 
+*Clients to connect applications to the vert.x event bus*
+
 * [C++11](https://github.com/julien3/vertxbuspp) - C++11 event bus client
+
+## Cluster Managers
+
+*Implementations of the vert.x cluster manager SPI*
+
+* [Copycat Cluster Manager](https://github.com/kuujo/vertx-copycat) - a [Copycat](https://github.com/kuujo/copycat) based Cluster Manager implementation for Vert.x 3.
 
 ## Cloud Support
 
@@ -69,3 +82,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 ## Docker
 
 * [Docker images](https://github.com/vert-x3/vertx-stack/tree/master/stack-docker) - Docker images for Vert.x
+
+## Search engines
+
+* [Vert.x ElasticSearch Service](https://github.com/englishtown/vertx-elasticsearch-service) - Vert.x 3 [elastic search](https://www.elastic.co/) service with event bus proxying.
