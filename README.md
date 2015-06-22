@@ -12,7 +12,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 - [Database Clients](#database-clients)
 - [Integration](#integration)
 - [Language Support](#language-support)
-- [Vert.x Event Bus Clients](#vert.x-event-bus-clients)
+- [Vert.x Event Bus Clients](#vertx-event-bus-clients)
 - [Cluster Managers](#cluster-managers)
 - [Cloud Support](#cloud-support)
 - [Docker](#docker)
