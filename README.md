@@ -133,4 +133,4 @@ For vert.x version 2, check [this page](./vert-x2.md).
 
 ## Distribution
 
-* [Vert.x Stack](https://github.com/vert-x3/vertx-stack) - Vert.x + the endorsed modules
+* [Vert.x Stack](https://github.com/vert-x3/vertx-stack) ![(stack)](stack.png "Vert.x Stack") - Vert.x + the endorsed modules
