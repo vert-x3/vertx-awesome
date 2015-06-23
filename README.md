@@ -14,9 +14,12 @@ For vert.x version 2, check [this page](./vert-x2.md).
 
 ## Contents
 
+- [Web frameworks](#web-frameworks)
+- [Authentication Authorisation](#authentication-authorisation)
 - [Database Clients](#database-clients)
 - [Integration](#integration)
 - [Language Support](#language-support)
+- [Reactive](#reactive)
 - [Vert.x Event Bus Clients](#vertx-event-bus-clients)
 - [Cluster Managers](#cluster-managers)
 - [Cloud Support](#cloud-support)
@@ -26,6 +29,12 @@ For vert.x version 2, check [this page](./vert-x2.md).
 ## Web frameworks
 
 * [Vert.x Web](https://github.com/vert-x3/vertx-web)  ![(stack)](stack.png "Vert.x Stack") - full featured web toolkit for Vert.x.
+
+## Authentication Authorisation
+
+* [Vert.x Auth JDBC](https://github.com/vert-x3/vertx-auth/tree/master/vertx-auth-jdbc)  ![(stack)](stack.png "Vert.x Stack") - Vert.x authentication/authorisation JDBC based.
+* [Vert.x Auth JWT](https://github.com/vert-x3/vertx-auth/tree/master/vertx-auth-jwt)  ![(stack)](stack.png "Vert.x Stack") - Vert.x Authorisation based on JSON Web Tokens.
+* [Vert.x Auth Shiro](https://github.com/vert-x3/vertx-auth/tree/master/vertx-auth-shiro)  ![(stack)](stack.png "Vert.x Stack") - Vert.x AuthN/AuthZ based on [Apache Shiro](http://shiro.apache.org/).
 
 ## Database Clients
 
@@ -72,6 +81,11 @@ For vert.x version 2, check [this page](./vert-x2.md).
 * [Scala](https://github.com/vert-x3/vertx-lang-scala) - Scala support
 * [TypeScript](https://github.com/michel-kraemer/vertx-lang-typescript) - TypeScript support
 
+## Reactive
+
+* [Reactive Streams](https://github.com/vert-x3/vertx-reactive-streams) ![(stack)](stack.png "Vert.x Stack") - Vert.x Reactive Streams
+* [Reactive Extensions](https://github.com/vert-x3/vertx-rx) ![(stack)](stack.png "Vert.x Stack") - Vert.x Reactive Extensions.
+
 ## Vert.x Event Bus Clients
 
 *Clients to connect applications to the vert.x event bus*
@@ -99,3 +113,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 ## Search engines
 
 * [Vert.x ElasticSearch Service](https://github.com/englishtown/vertx-elasticsearch-service) - Vert.x 3 [elastic search](https://www.elastic.co/) service with event bus proxying.
+
+## Testing
+
+* [Vert.x Unit](https://github.com/vert-x3/vertx-unit) ![(stack)](stack.png "Vert.x Stack") - Async polyglot unit testing for Vert.x.
