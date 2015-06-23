@@ -20,6 +20,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 - [Integration](#integration)
 - [Language Support](#language-support)
 - [Reactive](#reactive)
+- [Sync Thread Non Block](#sync-thread-non-block)
 - [Vert.x Event Bus Clients](#vertx-event-bus-clients)
 - [Cluster Managers](#cluster-managers)
 - [Cloud Support](#cloud-support)
@@ -86,6 +87,10 @@ For vert.x version 2, check [this page](./vert-x2.md).
 
 * [Reactive Streams](https://github.com/vert-x3/vertx-reactive-streams) ![(stack)](stack.png "Vert.x Stack") - Vert.x Reactive Streams
 * [Reactive Extensions](https://github.com/vert-x3/vertx-rx) ![(stack)](stack.png "Vert.x Stack") - Vert.x Reactive Extensions.
+
+## Sync Thread Non Block
+
+* [Sync](https://github.com/vert-x3/vertx-sync) - Synchronous but non-OS-thread-blocking verticles
 
 ## Vert.x Event Bus Clients
 
