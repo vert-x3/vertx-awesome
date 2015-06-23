@@ -6,8 +6,9 @@ Vert.x Awesome is an list of awesome frameworks, libraries or other components f
 If you want your component to appear here, send a pull request to this repository to add it.
 
 Please note that we can't vouch for the stability or production-worthiness of everything on this list unless it has 
-the icon ![(stack)](stack.png "Vert.x Stack") next to it. This means that the component is part of the `official` Vert.x
-stack.
+the icon ![(stack)](stack.png "Vert.x Stack") next to it.
+
+That icon means the component is part of the `official` [Vert.x stack](http://vert-x3.github.io/docs/).
 
 For vert.x version 2, check [this page](./vert-x2.md).
 
@@ -21,6 +22,10 @@ For vert.x version 2, check [this page](./vert-x2.md).
 - [Cloud Support](#cloud-support)
 - [Docker](#docker)
 - [Search engines](#search-engines)
+
+## Web frameworks
+
+* [Vert.x Web](https://github.com/vert-x3/vertx-web)  ![(stack)](stack.png "Vert.x Stack") - full featured web toolkit for Vert.x.
 
 ## Database Clients
 
