@@ -5,7 +5,7 @@ Vert.x Awesome is an list of awesome frameworks, libraries or other components f
 
 If you want your component to appear here, send a pull request to this repository to add it.
 
-Please note that we can't vouch for the stability or production-worthiness of everything on this list unless it has 
+Please note that we can't vouch for the stability or production-worthiness of everything on this list unless it has
 the icon ![(stack)](stack.png "Vert.x Stack") next to it.
 
 That icon means the component is part of the `official` [Vert.x stack](http://vert-x3.github.io/docs/).
@@ -33,7 +33,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 
 * Relational Databases
   * [JDBC](https://github.com/vert-x3/vertx-jdbc-client) ![(stack)](stack.png "Vert.x Stack") - Asynchronous interface around a JDBC datasource
-  * [MySQL](https://github.com/vert-x3/vertx-mysql-postgresql-client) ![(stack)](stack.png "Vert.x Stack") - Asynchronous client for MySQL
+  * [MySQL](https://github.com/vert-x3/vertx-mysql-postgresql-client) - Asynchronous client for MySQL
   * [PostgreSQL](https://github.com/vert-x3/vertx-mysql-postgresql-client) - Asynchronous client for PostgreSQL
 
 * NoSQL Databases
@@ -99,4 +99,3 @@ For vert.x version 2, check [this page](./vert-x2.md).
 ## Search engines
 
 * [Vert.x ElasticSearch Service](https://github.com/englishtown/vertx-elasticsearch-service) - Vert.x 3 [elastic search](https://www.elastic.co/) service with event bus proxying.
-
