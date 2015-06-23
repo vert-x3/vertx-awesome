@@ -84,12 +84,12 @@ For vert.x version 2, check [this page](./vert-x2.md).
 
 ## Cloud Support
 
-* [OpenShift DIY cartridge](https://github.com/vert-x3/vertx-openshift-diy-quickstart) - OpenShift DIY Cartridge using Vert.x
-* [OpenShift Vert.x cartridge](https://github.com/vert-x3/vertx-openshift-cartridge) - OpenShift Vert.x Cartridge using Vert.x
+* [OpenShift DIY cartridge](https://github.com/vert-x3/vertx-openshift-diy-quickstart) ![(stack)](stack.png "Vert.x Stack") - OpenShift DIY Cartridge using Vert.x
+* [OpenShift Vert.x cartridge](https://github.com/vert-x3/vertx-openshift-cartridge) ![(stack)](stack.png "Vert.x Stack") - OpenShift Vert.x Cartridge using Vert.x
 
 ## Docker
 
-* [Docker images](https://github.com/vert-x3/vertx-stack/tree/master/stack-docker) - Docker images for Vert.x
+* [Docker images](https://github.com/vert-x3/vertx-stack/tree/master/stack-docker) ![(stack)](stack.png "Vert.x Stack") - Docker images for Vert.x
 
 ## Search engines
 
