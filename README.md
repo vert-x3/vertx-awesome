@@ -28,6 +28,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 - [Search engines](#search-engines)
 - [Service factory](#service-factory)
 - [Distribution](#distribution)
+- [Examples](#Examples)
 
 ## Web frameworks
 
@@ -134,3 +135,8 @@ For vert.x version 2, check [this page](./vert-x2.md).
 ## Distribution
 
 * [Vert.x Stack](https://github.com/vert-x3/vertx-stack) ![(stack)](stack.png "Vert.x Stack") - Vert.x + the endorsed modules
+
+## Examples
+
+* [Vert.x examples](https://github.com/vert-x3/vertx-examples) ![(stack)](stack.png "Vert.x Stack") - The official Vert.x examples including web examples, how to use the official database clients, ...
+* [Vert.x feeds](https://github.com/aesteve/vertx-feeds) - Example of an RSS aggregator built using Vert.x, Gradle, MongoDB, Redis, Handlebars templates, AngularJS, the event bus and SockJS
