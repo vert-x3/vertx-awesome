@@ -121,6 +121,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 ## Search engines
 
 * [Vert.x ElasticSearch Service](https://github.com/englishtown/vertx-elasticsearch-service) - Vert.x 3 [elastic search](https://www.elastic.co/) service with event bus proxying.
+* [Vert.x Solr Service](https://github.com/englishtown/vertx-solr-service) - Vert.x 3 Solr service with event bus proxying.
 
 ## Testing
 
