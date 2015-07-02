@@ -27,6 +27,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 - [Docker](#docker)
 - [Search engines](#search-engines)
 - [Service factory](#service-factory)
+- [Dependency Injection](#dependency-injection)
 - [Distribution](#distribution)
 - [Examples](#examples)
 
@@ -134,6 +135,11 @@ For vert.x version 2, check [this page](./vert-x2.md).
 * [Service Factory](https://github.com/vert-x3/vertx-service-factory) ![(stack)](stack.png "Vert.x Stack") - Vert.x Service Factory
 * [Maven Service Factory](https://github.com/vert-x3/vertx-maven-service-factory) ![(stack)](stack.png "Vert.x Stack") - Maven Vert.x Service Factory
 * [HTTP Service Factory](https://github.com/vert-x3/vertx-http-service-factory) ![(stack)](stack.png "Vert.x Stack") - Vert.x HTTP Service Factory
+
+## Dependency Injection
+
+* [Vert.x Guice](https://github.com/englishtown/vertx-guice) - Vert.x verticle factory for Guice dependency injection
+* [Vert.x HK2](https://github.com/englishtown/vertx-hk2) - Vert.x verticle factory for HK2 dependency injection
 
 ## Distribution
 
