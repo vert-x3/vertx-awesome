@@ -104,6 +104,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 *Clients to connect applications to the vert.x event bus*
 
 * [C++11](https://github.com/julien3/vertxbuspp) - C++11 event bus client
+* [Java](https://github.com/saffron-technology/vertx-eventbusbridge) - Java implementation of vertxbus.js
 
 ## Cluster Managers
 
