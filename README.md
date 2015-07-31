@@ -94,6 +94,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 
 * [Reactive Streams](https://github.com/vert-x3/vertx-reactive-streams) ![(stack)](stack.png "Vert.x Stack") - Vert.x Reactive Streams
 * [Reactive Extensions](https://github.com/vert-x3/vertx-rx) ![(stack)](stack.png "Vert.x Stack") - Vert.x Reactive Extensions.
+* [vertx-util](https://github.com/cyngn/vertx-util) - Light weight promises & latches for vert.x
 
 ## Sync Thread Non Block
 
