@@ -64,6 +64,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 * Messaging
   * [AMQP 1.0](https://github.com/vert-x3/vertx-amqp-service) - Async AMQP 1.0 bridge
   * [RabbitMQ](https://github.com/vert-x3/vertx-rabbitmq-client) - RabbitMQ client (AMQP 0.9.4)
+  * [kafka](https://github.com/cyngn/vertx-kafka) - Kafka client for consuming and producing messages.
 
 * JavaEE
   * [JCA adaptor](https://github.com/vert-x3/vertx-jca) ![(stack)](stack.png "Vert.x Stack") - Java Connector Architecture Adaptor for the Vert.x event bus
