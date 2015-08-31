@@ -36,6 +36,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 * [Vert.x Web](https://github.com/vert-x3/vertx-web)  ![(stack)](stack.png "Vert.x Stack") - full featured web toolkit for Vert.x.
 * [Vert.x Jersey](https://github.com/englishtown/vertx-jersey) - create JAX-RS [Jersey](https://jersey.java.net/) resources in Vert.x.
 * [Vert.x Nubes](https://github.com/aesteve/vertx-nubes) - provides an annotation layer on top of vertx-web
+* [Kovert](https://github.com/kohesive/kovert) - Invisible REST framework for Kotlin + Vert.x Web.
 
 ## Authentication Authorisation
 
