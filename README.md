@@ -38,6 +38,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 * [Vert.x Nubes](https://github.com/aesteve/vertx-nubes) - provides an annotation layer on top of vertx-web
 * [Kovert](https://github.com/kohesive/kovert) - Invisible REST framework for Kotlin + Vert.x Web.
 * [RestVertx](https://github.com/codesipcoffee/restvertx) - easily build http services in Vert.x using Java
+* [Handlers](https://github.com/spriet2000/vertx-handlers-http) - open webframework for Vert.x.
 
 ## Authentication Authorisation
 
