@@ -33,6 +33,7 @@ For vert.x version 3, check [this page](./README.md).
 - [Social networks](#social-networks)
 - [Scaffolding](#scaffolding)
 - [Natural Language Processing](#natural-language-processing)
+- [Deployment] (#deployment)
 
 ## The vert.x module registry
 * `io.vertx~module-registry` - https://github.com/vert-x/vertx-module-registry - The Vert.x module registry itself!
@@ -205,3 +206,7 @@ For vert.x version 3, check [this page](./README.md).
 ## Natural Language Processing
 
 * Stanford core NLP https://github.com/jonnywray/mod-stanford-corenlp
+
+## Deployment
+
+* (Seamless) deploy to AWS based Vert.x application clusters - https://github.com/msoute/vertx-deploy-tools 
