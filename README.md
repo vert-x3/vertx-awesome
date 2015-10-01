@@ -39,6 +39,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 * [Kovert](https://github.com/kohesive/kovert) - Invisible REST framework for Kotlin + Vert.x Web.
 * [RestVertx](https://github.com/codesipcoffee/restvertx) - easily build http services in Vert.x using Java
 * [Handlers](https://github.com/spriet2000/vertx-handlers-http) - open webframework for Vert.x.
+* [QBit](https://github.com/advantageous/qbit) - REST and WebSocket method call marshaling and reactive lib @RequestMapping
 
 ## Authentication Authorisation
 
@@ -100,6 +101,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 * [Reactive Streams](https://github.com/vert-x3/vertx-reactive-streams) ![(stack)](stack.png "Vert.x Stack") - Vert.x Reactive Streams
 * [Reactive Extensions](https://github.com/vert-x3/vertx-rx) ![(stack)](stack.png "Vert.x Stack") - Vert.x Reactive Extensions.
 * [vertx-util](https://github.com/cyngn/vertx-util) - Light weight promises & latches for vert.x
+* [QBit](https://github.com/advantageous/qbit) - Async typed actor-like lib that runs easily in vert.x Async Callbacks. Callback management. 
 
 ## Sync Thread Non Block
 
@@ -152,6 +154,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 * [Vert.x HK2](https://github.com/englishtown/vertx-hk2) - Vert.x verticle factory for HK2 dependency injection
 * [Spring Vert.x Extension](https://github.com/amoAHCP/spring-vertx-ext) - Vert.x verticle factory for Spring DI injection
 * [Vert.x Beans](https://github.com/rworsnop/vertx-beans) - Inject Vert.x objects as beans into your Spring application
+* [QBit](https://github.com/advantageous/qbit) - QBit works with Spring DI and Spring Boot (and of course Vertx). Allows you to use QBit, Vertx, Spring DI and Spring Boot in the same application.
 
 ## Distribution
 
