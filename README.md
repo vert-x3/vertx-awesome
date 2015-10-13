@@ -28,6 +28,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 - [Search engines](#search-engines)
 - [Service factory](#service-factory)
 - [Dependency Injection](#dependency-injection)
+- [Development Tools](#development-tools)
 - [Distribution](#distribution)
 - [Examples](#examples)
 
