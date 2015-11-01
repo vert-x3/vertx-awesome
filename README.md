@@ -29,6 +29,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 - [Service factory](#service-factory)
 - [Dependency Injection](#dependency-injection)
 - [Development Tools](#development-tools)
+- [Miscellaneous](#miscellaneous)
 - [Distribution](#distribution)
 - [Examples](#examples)
 
@@ -161,6 +162,10 @@ For vert.x version 2, check [this page](./vert-x2.md).
 ## Development Tools
 
 * [Vert.x Hot](https://github.com/dazraf/vertx-hot) - A Maven plugin for the hot-deploy of Maven Vert.x projects.
+
+## Miscellaneous
+
+* [Vert.x Child Process](https://github.com/vietj/vertx-childprocess) - Spawn child process from Vert.x.
 
 ## Distribution
 
