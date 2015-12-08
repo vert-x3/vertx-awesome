@@ -97,6 +97,10 @@ For vert.x version 2, check [this page](./vert-x2.md).
 * [Ruby](https://github.com/vert-x3/vertx-lang-ruby) ![(stack)](stack.png "Vert.x Stack") - Ruby support
 * [Scala](https://github.com/vert-x3/vertx-lang-scala) - Scala support
 * [TypeScript](https://github.com/michel-kraemer/vertx-lang-typescript) - TypeScript support
+ 
+*Language extensions*
+
+* [Vertx Groovy Sugar](https://github.com/aesteve/vertx-groovy-sugar) - Syntaxic sugar + utilities (DSL builders, ...) on top of [vertx-lang-groovy](https://github.com/vert-x3/vertx-lang-groovy)
 
 ## Reactive
 
