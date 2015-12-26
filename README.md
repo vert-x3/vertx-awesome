@@ -120,6 +120,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 * [JavaScript](https://www.npmjs.com/package/vertx3-eventbus-client) ![(stack)](stack.png "Vert.x Stack") - JavaScript event bus client
 * [C++11](https://github.com/julien3/vertxbuspp) - C++11 event bus client
 * [Java](https://github.com/saffron-technology/vertx-eventbusbridge) - Java implementation of vertxbus.js
+* [Java](https://github.com/abdlquadri/vertx-eventbus-java) - Java and Android Event Bus Client
 
 ## Cluster Managers
 
