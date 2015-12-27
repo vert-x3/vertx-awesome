@@ -89,7 +89,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 
 *Programming language support for Vert.x*
 
-* [Ceylon](https://github.com/vert-x3/vertx-lang-ceylon) - Ceylon support
+* [Ceylon](https://github.com/vert-x3/vertx-lang-ceylon) ![(stack)](stack.png "Vert.x Stack") - Ceylon support
 * [Groovy](https://github.com/vert-x3/vertx-lang-groovy) ![(stack)](stack.png "Vert.x Stack") - Groovy support
 * [Java](https://github.com/eclipse/vert.x) ![(stack)](stack.png "Vert.x Stack") - Vert.x main repository (including the Java API)
 * [JavaScript](https://github.com/vert-x3/vertx-lang-js) ![(stack)](stack.png "Vert.x Stack") - JavaScript support
