@@ -100,7 +100,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
  
 *Language extensions*
 
-* [Vertx Groovy Sugar](https://github.com/aesteve/vertx-groovy-sugar) - Syntaxic sugar + utilities (DSL builders, ...) on top of [vertx-lang-groovy](https://github.com/vert-x3/vertx-lang-groovy)
+* [Grooveex](https://github.com/aesteve/grooveex) - Syntaxic sugar + utilities (DSL builders, ...) on top of [vertx-lang-groovy](https://github.com/vert-x3/vertx-lang-groovy)
 
 ## Reactive
 
