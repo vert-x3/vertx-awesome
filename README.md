@@ -177,6 +177,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 ## Miscellaneous
 
 * [Vert.x Child Process](https://github.com/vietj/vertx-childprocess) - Spawn child process from Vert.x.
+* [vertx-redisques](https://github.com/swisspush/vertx-redisques) - A highly scalable redis-persistent queuing system for vert.x.
 
 ## Distribution
 
