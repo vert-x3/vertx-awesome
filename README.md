@@ -32,6 +32,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 - [Miscellaneous](#miscellaneous)
 - [Distribution](#distribution)
 - [Examples](#examples)
+- [Deployment] (#deployment)
 
 ## Web frameworks
 
@@ -183,3 +184,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 * [Vert.x feeds](https://github.com/aesteve/vertx-feeds) - Example of an RSS aggregator built using Vert.x, Gradle, MongoDB, Redis, Handlebars templates, AngularJS, the event bus and SockJS
 * [Vert.x Markdown service](https://github.com/aesteve/vertx-markdown-service) - Example on how to use [service-proxy](https://github.com/vert-x3/vertx-service-proxy) with Gradle.
 * [Example using event bus and service proxies to connect vertx and node](https://github.com/advantageous/vertx-node-ec2-eventbus-example) - Step by step example with WIKI description showing how to connect Vertx and Node using event bus and service proxies.
+
+## Deployment
+
+* [Vert.x Deploy Application](https://github.com/msoute/vertx-deploy-tools) - (Seamless) deploy to AWS based Vert.x application clusters
