@@ -18,6 +18,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 - [Authentication Authorisation](#authentication-authorisation)
 - [Database Clients](#database-clients)
 - [Integration](#integration)
+- [Middleware](#middleware)
 - [Language Support](#language-support)
 - [Reactive](#reactive)
 - [Sync Thread Non Block](#sync-thread-non-block)
@@ -84,6 +85,10 @@ For vert.x version 2, check [this page](./vert-x2.md).
   * [DropWizard metrics](https://github.com/vert-x3/vertx-dropwizard-metrics) ![(stack)](stack.png "Vert.x Stack") - Metrics implementation using DropWizard metrics
   * [OpenTsDb Metrics](https://github.com/cyngn/vertx-opentsdb) - [OpenTsDb](http://opentsdb.net/) metrics client for vert.x
   * [Bosun Monitoring](https://github.com/cyngn/vertx-bosun) - [Bosun](https://bosun.org/) client library for vert.x
+
+## Middleware
+
+* [Gateleen](https://github.com/swisspush/gateleen) - Middleware library based on Vert.x to build advanced JSON/REST communication servers
 
 ## Language Support
 
