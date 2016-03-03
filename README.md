@@ -43,6 +43,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 * [RestVertx](https://github.com/codesipcoffee/restvertx) - easily build http services in Vert.x using Java
 * [Handlers](https://github.com/spriet2000/vertx-handlers-http) - open webframework for Vert.x.
 * [QBit](https://github.com/advantageous/qbit) - REST and WebSocket method call marshaling and reactive lib @RequestMapping
+* [vertx-rest-storage](https://github.com/swisspush/vertx-rest-storage) - Persistence for REST resources in the filesystem or a redis database
 
 ## Authentication Authorisation
 
