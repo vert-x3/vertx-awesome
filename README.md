@@ -19,6 +19,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 - [Database Clients](#database-clients)
 - [Integration](#integration)
 - [Middleware](#middleware)
+- [Mobile](#mobile)
 - [Language Support](#language-support)
 - [Reactive](#reactive)
 - [Sync Thread Non Block](#sync-thread-non-block)
@@ -91,6 +92,9 @@ For vert.x version 2, check [this page](./vert-x2.md).
 ## Middleware
 
 * [Gateleen](https://github.com/swisspush/gateleen) - Middleware library based on Vert.x to build advanced JSON/REST communication servers
+
+## Mobile
+* [Android - Google Cloud Messaging(GCM) support](https://github.com/michalboska/vertx3-gcm) - Library to send push notifications to Android devices using GCM
 
 ## Language Support
 
