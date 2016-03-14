@@ -134,7 +134,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 *Implementations of the vert.x cluster manager SPI*
 
 * [Hazelcast Cluster Manager](https://github.com/vert-x3/vertx-hazelcast) ![(stack)](stack.png "Vert.x Stack") - Hazelcast cluster manager
-* [Ignite Cluster Manager](https://github.com/apacheignite/vertx-ignite) - Ignite cluster manager
+* [Ignite Cluster Manager](https://github.com/vert-x3/vertx-ignite) ![(stack)](stack.png "Vert.x Stack") - Ignite cluster manager
 * [JGroups Cluster Manager](https://github.com/vert-x3/vertx-jgroups) - JGroups cluster manager
 * [Zookeeper Cluster Manager](https://github.com/stream1984/vertx-zookeeper) - Zookeeper cluster manager
 * [Copycat Cluster Manager](https://github.com/kuujo/vertx-copycat) - a [Copycat](https://github.com/kuujo/copycat) based Cluster Manager implementation for Vert.x 3.
