@@ -34,6 +34,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 - [Distribution](#distribution)
 - [Examples](#examples)
 - [Deployment] (#deployment)
+- [Utilities] (#utilities)
 
 ## Web frameworks
 
@@ -195,3 +196,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 ## Deployment
 
 * [Vert.x Deploy Application](https://github.com/msoute/vertx-deploy-tools) - (Seamless) deploy to AWS based Vert.x application clusters
+
+## Utilities
+
+* [Chime](https://github.com/LisiLisenok/Chime) - time scheduler, which works on Vert.x event bus and allows scheduling with _cron-style_ and _interval_ timers.
