@@ -67,6 +67,9 @@ For vert.x version 2, check [this page](./vert-x2.md).
   * [Redis](https://github.com/vert-x3/vertx-redis-client) ![(stack)](stack.png "Vert.x Stack") - Asynchronous API to interact with Redis
   * [Cassandra](https://github.com/englishtown/vertx-cassandra) - Asynchronous API to interact with Cassandra and Cassandra Mapping
 
+* [vertx-pojo-mapper](https://github.com/BraintagsGmbH/vertx-pojo-mapper) - nonblocking pojo mapping for MySql and MongoDB
+
+
 ## Integration
 
 * Mail
