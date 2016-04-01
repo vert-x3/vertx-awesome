@@ -72,6 +72,8 @@ For vert.x version 2, check [this page](./vert-x2.md).
 
 ## Integration
 
+* Server-Sent Events
+  * [jEaSSE](https://github.com/mariomac/jeasse) Java Easy SSE. A simple, lightweight implementation of SSE. 
 * Mail
   * [SMTP](https://github.com/vert-x3/vertx-mail-client) ![(stack)](stack.png "Vert.x Stack") - Async SMTP client
   * [vertx-smtp-server] (https://github.com/cinterloper/vertx-smtp-server) - SMTP server bridging to EventBus 
