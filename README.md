@@ -47,6 +47,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 * [QBit](https://github.com/advantageous/qbit) - REST and WebSocket method call marshaling and reactive lib @RequestMapping
 * [vertx-rest-storage](https://github.com/swisspush/vertx-rest-storage) - Persistence for REST resources in the filesystem or a redis database
 * [Jubilee](https://github.com/isaiah/jubilee) - A rack compatible Ruby http server built on Vertx3
+* [katharsis-vertx](https://github.com/katharsis-project/katharsis-vertx) - [JSONAPI](http://jsonapi.org/) implementation for Vertx3 
 
 ## Authentication Authorisation
 
