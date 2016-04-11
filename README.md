@@ -145,7 +145,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 * [Ignite Cluster Manager](https://github.com/vert-x3/vertx-ignite) ![(stack)](stack.png "Vert.x Stack") - Ignite cluster manager
 * [JGroups Cluster Manager](https://github.com/vert-x3/vertx-jgroups) - JGroups cluster manager
 * [Zookeeper Cluster Manager](https://github.com/stream1984/vertx-zookeeper) - Zookeeper cluster manager
-* [Copycat Cluster Manager](https://github.com/kuujo/vertx-copycat) - a [Copycat](https://github.com/kuujo/copycat) based Cluster Manager implementation for Vert.x 3.
+* [Atomix Cluster Manager](https://github.com/atomix/atomix-vertx) - an [Atomix](http://atomix.io) based Cluster Manager implementation for Vert.x 3.
 
 ## Cloud Support
 
