@@ -211,3 +211,4 @@ For vert.x version 2, check [this page](./vert-x2.md).
 ## Utilities
 
 * [Chime](https://github.com/LisiLisenok/Chime) - time scheduler, which works on Vert.x event bus and allows scheduling with _cron-style_ and _interval_ timers.
+* [Vert.x POJO config](https://github.com/aesteve/vertx-pojo-config) - Allows mapping between standard json configuration and a (typesafe) configuration Java bean. Also allows to validate the configuration bean through JSR 303.
