@@ -54,6 +54,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 * [Vert.x Auth JDBC](https://github.com/vert-x3/vertx-auth/tree/master/vertx-auth-jdbc)  ![(stack)](stack.png "Vert.x Stack") - Vert.x authentication/authorisation JDBC based.
 * [Vert.x Auth JWT](https://github.com/vert-x3/vertx-auth/tree/master/vertx-auth-jwt)  ![(stack)](stack.png "Vert.x Stack") - Vert.x Authorisation based on JSON Web Tokens.
 * [Vert.x Auth Shiro](https://github.com/vert-x3/vertx-auth/tree/master/vertx-auth-shiro)  ![(stack)](stack.png "Vert.x Stack") - Vert.x AuthN/AuthZ based on [Apache Shiro](http://shiro.apache.org/).
+* [Vert.x-Pac4j](https://github.com/pac4j/vertx-pac4j)    ![(stack)](stack.png "Vert.x Stack") - Vert.x authentication/authorisation implemented using [pac4j](http://www.pac4j.org/).
 
 ## Database Clients
 
