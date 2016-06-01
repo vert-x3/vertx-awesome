@@ -120,6 +120,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 * [Ruby](https://github.com/vert-x3/vertx-lang-ruby) ![(stack)](stack.png "Vert.x Stack") - Ruby support
 * [Scala](https://github.com/vert-x3/vertx-lang-scala) - Scala support
 * [TypeScript](https://github.com/michel-kraemer/vertx-lang-typescript) - TypeScript support
+* [Kotlin](https://github.com/cy6erGn0m/vertx3-lang-kotlin) - Kotlin support
  
 *Language extensions*
 
