@@ -91,7 +91,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
   * [MQTT Broker](https://github.com/GruppoFilippetti/vertx-mqtt-broker) - MQTT Broker (MQTT ver. 3.1.1 and 3.1 compliant)
 * JavaEE
   * [JCA adaptor](https://github.com/vert-x3/vertx-jca) ![(stack)](stack.png "Vert.x Stack") - Java Connector Architecture Adaptor for the Vert.x event bus
-  * [Weld](https://github.com/weld/weld-vertx) - a working prototype of Weld/Vert.x integration that allows to automatically register CDI observer methods as Vert.x message consumers
+  * [Weld](https://github.com/weld/weld-vertx) -  Brings the CDI programming model into the Vert.x ecosystem (register CDI observer methods as Vert.x message consumers, CDI-powered Verticles, define routes in a declarative way, ...)
 
 * Meteor
   * [Meteor](https://github.com/jmusacchio/vertxbus/) - Meteor integration support through Vert.x event bus
