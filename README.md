@@ -47,7 +47,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 * [QBit](https://github.com/advantageous/qbit) - REST and WebSocket method call marshaling and reactive lib @RequestMapping
 * [vertx-rest-storage](https://github.com/swisspush/vertx-rest-storage) - Persistence for REST resources in the filesystem or a redis database
 * [Jubilee](https://github.com/isaiah/jubilee) - A rack compatible Ruby http server built on Vertx3
-* [katharsis-vertx](https://github.com/katharsis-project/katharsis-vertx) - [JSONAPI](http://jsonapi.org/) implementation for Vertx3 
+* [katharsis-vertx](https://github.com/katharsis-project/katharsis-vertx) - [JSONAPI](http://jsonapi.org/) implementation for Vertx3
 
 ## Authentication Authorisation
 
@@ -78,10 +78,10 @@ For vert.x version 2, check [this page](./vert-x2.md).
 ## Integration
 
 * Server-Sent Events
-  * [jEaSSE](https://github.com/mariomac/jeasse) Java Easy SSE. A simple, lightweight implementation of SSE. 
+  * [jEaSSE](https://github.com/mariomac/jeasse) Java Easy SSE. A simple, lightweight implementation of SSE.
 * Mail
   * [SMTP](https://github.com/vert-x3/vertx-mail-client) ![(stack)](stack.png "Vert.x Stack") - Async SMTP client
-  * [vertx-smtp-server] (https://github.com/cinterloper/vertx-smtp-server) - SMTP server bridging to EventBus 
+  * [vertx-smtp-server] (https://github.com/cinterloper/vertx-smtp-server) - SMTP server bridging to EventBus
 * Messaging
   * [AMQP 1.0](https://github.com/vert-x3/vertx-amqp-service) - Async AMQP 1.0 bridge
   * [RabbitMQ](https://github.com/vert-x3/vertx-rabbitmq-client) - RabbitMQ client (AMQP 0.9.4)
@@ -101,10 +101,10 @@ For vert.x version 2, check [this page](./vert-x2.md).
   * [DropWizard metrics](https://github.com/vert-x3/vertx-dropwizard-metrics) ![(stack)](stack.png "Vert.x Stack") - Metrics implementation using DropWizard metrics
   * [OpenTsDb Metrics](https://github.com/cyngn/vertx-opentsdb) - [OpenTsDb](http://opentsdb.net/) metrics client for vert.x
   * [Bosun Monitoring](https://github.com/cyngn/vertx-bosun) - [Bosun](https://bosun.org/) client library for vert.x
- 
+
 * Netflix - Hystrix
   * [Hystrix Metrics Stream](https://github.com/kennedyoliveira/hystrix-vertx-metrics-stream.git) - Emits metrics for Hystrix Dashboard from a Vertx application with [Hystrix](https://github.com/Netflix/Hystrix).
-  
+
 ## Middleware
 
 * [Gateleen](https://github.com/swisspush/gateleen) - Middleware library based on Vert.x to build advanced JSON/REST communication servers
@@ -122,7 +122,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 * [Scala](https://github.com/vert-x3/vertx-lang-scala) - Scala support
 * [TypeScript](https://github.com/michel-kraemer/vertx-lang-typescript) - TypeScript support
 * [Kotlin](https://github.com/cy6erGn0m/vertx3-lang-kotlin) - Kotlin support
- 
+
 *Language extensions*
 
 * [Grooveex](https://github.com/aesteve/grooveex) - Syntaxic sugar + utilities (DSL builders, ...) on top of [vertx-lang-groovy](https://github.com/vert-x3/vertx-lang-groovy)
@@ -132,7 +132,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 * [Reactive Streams](https://github.com/vert-x3/vertx-reactive-streams) ![(stack)](stack.png "Vert.x Stack") - Vert.x Reactive Streams
 * [Reactive Extensions](https://github.com/vert-x3/vertx-rx) ![(stack)](stack.png "Vert.x Stack") - Vert.x Reactive Extensions.
 * [vertx-util](https://github.com/cyngn/vertx-util) - Light weight promises & latches for vert.x
-* [QBit](https://github.com/advantageous/qbit) - Async typed actor-like lib that runs easily in vert.x Async Callbacks. Callback management. 
+* [QBit](https://github.com/advantageous/qbit) - Async typed actor-like lib that runs easily in vert.x Async Callbacks. Callback management.
 
 ## Sync Thread Non Block
 
@@ -219,4 +219,5 @@ For vert.x version 2, check [this page](./vert-x2.md).
 ## Utilities
 
 * [Chime](https://github.com/LisiLisenok/Chime) - time scheduler, which works on Vert.x event bus and allows scheduling with _cron-style_ and _interval_ timers.
+* [Vert.x Cron](https://github.com/diabolicallabs/vertx-cron) - Schedule events with cron specifications. Has event bus and Observable versions.
 * [Vert.x POJO config](https://github.com/aesteve/vertx-pojo-config) - Allows mapping between standard json configuration and a (typesafe) configuration Java bean. Also allows to validate the configuration bean through JSR 303.
