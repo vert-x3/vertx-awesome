@@ -84,7 +84,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
   * [vertx-smtp-server] (https://github.com/cinterloper/vertx-smtp-server) - SMTP server bridging to EventBus
 * Messaging
   * [AMQP 1.0](https://github.com/vert-x3/vertx-amqp-service) - Async AMQP 1.0 bridge
-  * [RabbitMQ](https://github.com/vert-x3/vertx-rabbitmq-client) - RabbitMQ client (AMQP 0.9.4)
+  * [RabbitMQ](https://github.com/vert-x3/vertx-rabbitmq-client) ![(stack)](stack.png "Vert.x Stack") - A RabbitMQ client (AMQP 0.9.1)
   * [kafka](https://github.com/cyngn/vertx-kafka) - Kafka client for consuming and producing messages.
   * [SaltStack] (https://github.com/cinterloper/vertx-salt) - A bi-directional bridge between the SaltStack event system and the Vertx event bus
   * [ZeroMQ](https://github.com/dano/vertx-zeromq) - ZeroMQ Event Bus bridge.
