@@ -10,7 +10,7 @@ the icon ![(stack)](stack.png "Vert.x Stack") next to it.
 
 That icon means the component is part of the `official` [Vert.x stack](http://vert-x3.github.io/docs/).
 
-For vert.x version 2, check [this page](./vert-x2.md).
+For Vert.x version 2, check [this page](./vert-x2.md).
 
 ## Contents
 
@@ -102,8 +102,8 @@ For vert.x version 2, check [this page](./vert-x2.md).
 * Metrics
   * [Hawkular metrics](https://github.com/tsegismont/vertx-monitor) -  [Hawkular](http://www.hawkular.org/) implementation of the Vert.x Metrics SPI
   * [DropWizard metrics](https://github.com/vert-x3/vertx-dropwizard-metrics) ![(stack)](stack.png "Vert.x Stack") - Metrics implementation using DropWizard metrics
-  * [OpenTsDb Metrics](https://github.com/cyngn/vertx-opentsdb) - [OpenTsDb](http://opentsdb.net/) metrics client for vert.x
-  * [Bosun Monitoring](https://github.com/cyngn/vertx-bosun) - [Bosun](https://bosun.org/) client library for vert.x
+  * [OpenTsDb Metrics](https://github.com/cyngn/vertx-opentsdb) - [OpenTsDb](http://opentsdb.net/) metrics client for Vert.x
+  * [Bosun Monitoring](https://github.com/cyngn/vertx-bosun) - [Bosun](https://bosun.org/) client library for Vert.x
 
 * Netflix - Hystrix
   * [Hystrix Metrics Stream](https://github.com/kennedyoliveira/hystrix-vertx-metrics-stream.git) - Emits metrics for Hystrix Dashboard from a Vertx application with [Hystrix](https://github.com/Netflix/Hystrix).
@@ -134,8 +134,8 @@ For vert.x version 2, check [this page](./vert-x2.md).
 
 * [Reactive Streams](https://github.com/vert-x3/vertx-reactive-streams) ![(stack)](stack.png "Vert.x Stack") - Vert.x Reactive Streams
 * [Reactive Extensions](https://github.com/vert-x3/vertx-rx) ![(stack)](stack.png "Vert.x Stack") - Vert.x Reactive Extensions.
-* [vertx-util](https://github.com/cyngn/vertx-util) - Light weight promises & latches for vert.x
-* [QBit](https://github.com/advantageous/qbit) - Async typed actor-like lib that runs easily in vert.x Async Callbacks. Callback management.
+* [vertx-util](https://github.com/cyngn/vertx-util) - Light weight promises & latches for Vert.x
+* [QBit](https://github.com/advantageous/qbit) - Async typed actor-like lib that runs easily in Vert.x Async Callbacks. Callback management.
 
 ## Sync Thread Non Block
 
@@ -143,7 +143,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 
 ## Vert.x Event Bus Clients
 
-*Clients to connect applications to the vert.x event bus*
+*Clients to connect applications to the Vert.x event bus*
 
 * [JavaScript](https://www.npmjs.com/package/vertx3-eventbus-client) ![(stack)](stack.png "Vert.x Stack") - JavaScript event bus client
 * [C++11](https://github.com/julien3/vertxbuspp) - C++11 event bus client
@@ -152,7 +152,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 
 ## Cluster Managers
 
-*Implementations of the vert.x cluster manager SPI*
+*Implementations of the Vert.x cluster manager SPI*
 
 * [Hazelcast Cluster Manager](https://github.com/vert-x3/vertx-hazelcast) ![(stack)](stack.png "Vert.x Stack") - Hazelcast cluster manager
 * [Ignite Cluster Manager](https://github.com/vert-x3/vertx-ignite) ![(stack)](stack.png "Vert.x Stack") - Ignite cluster manager
@@ -202,7 +202,7 @@ For vert.x version 2, check [this page](./vert-x2.md).
 ## Miscellaneous
 
 * [Vert.x Child Process](https://github.com/vietj/vertx-childprocess) - Spawn child process from Vert.x.
-* [vertx-redisques](https://github.com/swisspush/vertx-redisques) - A highly scalable redis-persistent queuing system for vert.x.
+* [vertx-redisques](https://github.com/swisspush/vertx-redisques) - A highly scalable redis-persistent queuing system for Vert.x.
 
 ## Distribution
 
