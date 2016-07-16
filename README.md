@@ -233,6 +233,16 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [Vert.x Cron](https://github.com/diabolicallabs/vertx-cron) - Schedule events with cron specifications. Has event bus and Observable versions.
 * [Vert.x POJO config](https://github.com/aesteve/vertx-pojo-config) - Allows for mapping between standard JSON configuration and a (type-safe) configuration Java bean. Also allows the configuration bean to be validated through JSR 303.
 
+## Community
+
+- [User Group](https://groups.google.com/forum/?fromgroups#!forum/vertx) - Discuss all user issues related to *using* Vert.x.
+- [Developer Group](https://groups.google.com/forum/?fromgroups#!forum/vertx-dev) - A group for Vert.x core *developers* and *contributors*.
+- [IRC channel](https://webchat.freenode.net/?channels=#vertx) - This is our day-to-day office: #vertx on freenode.net.
+- [Issues](https://github.com/vert-x3/issues/issues) - Vert.x core issue tracker.
+- [Wiki](https://github.com/vert-x3/wiki/wiki) - Contains useful information about Vert.x.
+- [Learning Materials](http://vertx.io/materials/) - A list of articles and presentations on Vert.x.
+- [Blog](http://vertx.io/blog/) - The official Vert.x blog containing many tutorials and other information.
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
