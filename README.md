@@ -1,5 +1,7 @@
 # Awesome Vert.x [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[<img src="logo-sm.png" align="right" width="250">](http://electron.atom.io)
+
 *Awesome Vert.x* is a list of awesome frameworks, libraries or other components for use with or that use
 [Vert.x](https://github.com/eclipse/vert.x) version 3.
 
