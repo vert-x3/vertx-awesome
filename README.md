@@ -158,6 +158,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [C++11](https://github.com/julien3/vertxbuspp) - C++11 event bus client.
 * [Java](https://github.com/saffron-technology/vertx-eventbusbridge) - Java implementation of vertxbus.js.
 * [Java](https://github.com/abdlquadri/vertx-eventbus-java) - Java and Android Event Bus Client.
+* [CLI](https://github.com/cinterloper/vxc) - Command-line binary client for Vert.x event bus - pipe in JSON, emit JSON.
 
 ## Cluster Managers
 
