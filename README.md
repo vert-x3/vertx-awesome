@@ -28,6 +28,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 - [Cluster Managers](#cluster-managers)
 - [Cloud Support](#cloud-support)
 - [Docker](#docker)
+- [Microservices](#microservices)
 - [Search Engines](#search-engines)
 - [Service Factory](#service-factory)
 - [Dependency Injection](#dependency-injection)
