@@ -179,12 +179,12 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 
 ## Microservices
 
-* [Discovery Service](https://github.com/vert-x3/vertx-discovery-service) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Discovery Service" height="16px"> - Vert.x Discovery Service.
+* [Service Discovery](https://github.com/vert-x3/vertx-service-discovery) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery" height="16px"> - Vert.x Service Discovery.
 * [Circuit Breaker](https://github.com/vert-x3/vertx-circuit-breaker) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Circuit Breaker" height="16px"> - Vert.x Circuit Breaker.
-* [Discovery Service - Consul](https://github.com/vert-x3/vertx-discovery-service) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Discovery Service - Consul" height="16px"> - [Consul](https://www.consul.io/) extension to Vert.x Discovery Service.
-* [Discovery Service - Docker links](https://github.com/vert-x3/vertx-discovery-service) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Discovery Service - Docker Links" height="16px"> - [Docker](https://www.docker.com/) extension to Vert.x Discovery Service.
-* [Discovery Service - Kubernetes](https://github.com/vert-x3/vertx-discovery-service) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Discovery Service - Kubernetes" height="16px"> - [Kubernetes](http://kubernetes.io/) extension to Vert.x Discovery Service.
-* [Discovery Service - Redis backend](https://github.com/vert-x3/vertx-discovery-service) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Discovery Service - Redis backend" height="16px"> - [Redis](http://redis.io/) storage backend for Vert.x Discovery Service.
+* [Service Discovery - Consul](https://github.com/vert-x3/vertx-service-discovery) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Consul" height="16px"> - [Consul](https://www.consul.io/) extension to Vert.x Service Discovery.
+* [Service Discovery - Docker links](https://github.com/vert-x3/vertx-service-discovery) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Docker Links" height="16px"> - [Docker](https://www.docker.com/) extension to Vert.x Service Discovery.
+* [Service Discovery - Kubernetes](https://github.com/vert-x3/vertx-service-discovery) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Kubernetes" height="16px"> - [Kubernetes](http://kubernetes.io/) extension to Vert.x Service Discovery.
+* [Service Discovery - Redis backend](https://github.com/vert-x3/vertx-service-discovery) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Redis backend" height="16px"> - [Redis](http://redis.io/) storage backend for Vert.x Service Discovery.
 
 
 ## Search Engines
