@@ -162,6 +162,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [Java](https://github.com/saffron-technology/vertx-eventbusbridge) - Java implementation of vertxbus.js.
 * [Java](https://github.com/abdlquadri/vertx-eventbus-java) - Java and Android Event Bus Client.
 * [CLI](https://github.com/cinterloper/vxc) - Command-line binary client for Vert.x event bus - pipe in JSON, emit JSON.
+* [Swift](https://github.com/tobias/vertx-swift-eventbus) - event bus client for [Apple's Swift](https://swift.org) using the [TCP-based protocol](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
 
 ## Cluster Managers
 
