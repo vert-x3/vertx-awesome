@@ -166,6 +166,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [Python](https://github.com/jaymine/TCP-eventbus-client-Python) - event bus client for Python using the [TCP-based protocol](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
 * [C#](https://github.com/jaymine/TCP-eventbus-client-C-Sharp) - event bus client for C# using the [TCP-based protocol](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
 * [C](https://github.com/jaymine/TCP-eventbus-client-C) - event bus client for C99 using the [TCP-based protocol](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
+* [Go](https://github.com/jponge/vertx-go-tcp-eventbus-bridge)- event bus client for Go-lang using the [TCP-based protocol](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
 
 ## Cluster Managers
 
