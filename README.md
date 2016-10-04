@@ -232,6 +232,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 
 * [Vert.x Child Process](https://github.com/vietj/vertx-childprocess) - Spawn child process from Vert.x.
 * [vertx-redisques](https://github.com/swisspush/vertx-redisques) - A highly scalable redis-persistent queuing system for Vert.x.
+* [Simple File Server](https://github.com/pitchpoint-solutions/sfs) - An Openstack Swift compatible object storage server that can serve and securely store billions of large and small files using minimal resources implemented using Vertx.x.
 
 ## Distribution
 
