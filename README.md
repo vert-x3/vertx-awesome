@@ -240,6 +240,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 
 * [Vert.x Hot](https://github.com/dazraf/vertx-hot) - A Maven plugin for the hot-deploy of Maven Vert.x projects.
 * [Vert.x for Visual Studio Code](https://github.com/pmlopes/VertxSnippet) - A Visual Studio Code (polyglot) plugin for Vert.x. Also available from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=pmlopes.vertxsnippet).
+* [Vert.x Starter](http://www.jetdrone.xyz/vertx-starter/) - A Browser Based project starter and project templates for Vert.x applications.
 
 ## Miscellaneous
 
