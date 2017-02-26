@@ -39,6 +39,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 - [Examples](#examples)
 - [Deployment](#deployment)
 - [Utilities](#utilities)
+- [Front-end](#front-end)
 
 ## Web Frameworks
 
@@ -177,6 +178,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [C#](https://github.com/jaymine/TCP-eventbus-client-C-Sharp) - Event bus client for C# using the [TCP-based protocol](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
 * [C](https://github.com/jaymine/TCP-eventbus-client-C) - Event bus client for C99 using the [TCP-based protocol](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
 * [Go](https://github.com/jponge/vertx-go-tcp-eventbus-bridge)- Event bus client for Go-lang using the [TCP-based protocol](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
+* [Java](https://github.com/nielsbaloe/vertxui/tree/master/vertxui-core/src/main/java/live/connector/vertxui/client/transport) - Event bus support in Javascript through Java code
 
 ## Cluster Managers
 
@@ -288,6 +290,10 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 - [Wiki](https://github.com/vert-x3/wiki/wiki) - Contains useful information about Vert.x.
 - [Learning Materials](http://vertx.io/materials/) - A list of articles and presentations on Vert.x.
 - [Blog](http://vertx.io/blog/) - The official Vert.x blog containing many tutorials and other information.
+
+## Front-End
+
+* [VertxUI](https://github.com/nielsbaloe/vertxui) - A pure Java front-end toolkit with descriptive fluent views-on-models, POJO traffic, jUnit testing on the virtual DOM or mixed-language on a real DOM, and more.
 
 ## Contribute
 
