@@ -145,9 +145,9 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [JavaScript](https://github.com/vert-x3/vertx-lang-js) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - JavaScript support.
 * [Python](https://github.com/vert-x3/vertx-lang-python) - Python support.
 * [Ruby](https://github.com/vert-x3/vertx-lang-ruby) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Ruby support.
-* [Scala](https://github.com/vert-x3/vertx-lang-scala) - Scala support.
+* [Scala](https://github.com/vert-x3/vertx-lang-scala) - <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Scala support.
+* [Kotlin](https://github.com/vert-x3/vertx3-lang-kotlin) - <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Kotlin support.
 * [TypeScript](https://github.com/michel-kraemer/vertx-lang-typescript) - TypeScript support.
-* [Kotlin](https://github.com/cy6erGn0m/vertx3-lang-kotlin) - Kotlin support.
 
 *Language extensions*
 
