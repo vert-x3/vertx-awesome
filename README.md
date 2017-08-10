@@ -310,6 +310,11 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 - [Blog](http://vertx.io/blog/) - The official Vert.x blog containing many tutorials and other information.
 - [2017 Events](https://github.com/vert-x3/wiki/wiki/Vert.x-2017-Events) - A list of 2017 Vert.x talks and presentations. 
 
+## Social events / Meetups
+
+- [Amsterdam/The Netherlands](https://www.meetup.com/Vert-x-NL)
+- [Paris](https://www.meetup.com/Paris-vert-x-Meetup/)
+
 ## Front-End
 
 * [VertxUI](https://github.com/nielsbaloe/vertxui) - A pure Java front-end toolkit with descriptive fluent views-on-models, POJO traffic, JUnit testing on the virtual DOM or mixed-language on a real DOM, and more.
