@@ -17,6 +17,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 ## Contents
 
 - [Books](#books)
+- [Build tools](#build-tools)
 - [Web Frameworks](#web-frameworks)
 - [Authentication Authorisation](#authentication-authorisation)
 - [Database Clients](#database-clients)
@@ -46,6 +47,11 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 
 * [A gentle guide to asynchronous programming with Eclipse Vert.x for Java developers](http://vertx.io/docs/guide-for-java-devs/) by Julien Ponge, Thomas Segismont and Julien Viet
 * [Building Reactive Microservices in Java](https://developers.redhat.com/promotions/building-reactive-microservices-in-java/) by Clément Escoffier
+
+## Build tools
+
+* [Vert.x Maven plugin](https://github.com/fabric8io/vertx-maven-plugin)
+* [Vert.x Gradle plugin](https://plugins.gradle.org/plugin/io.vertx.vertx-plugin)
 
 ## Web Frameworks
 
