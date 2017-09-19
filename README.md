@@ -147,6 +147,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 
 ## Middleware
 
+* [Apache Camel](https://github.com/apache/camel/blob/master/components/camel-vertx/src/main/docs/vertx-component.adoc) - [Apache Camel](http://camel.apache.org/) component for bridging Camel with the Vert.x event bus.
 * [Gateleen](https://github.com/swisspush/gateleen) - Middleware library based on Vert.x to build advanced JSON/REST communication servers
 
 ## Language Support
