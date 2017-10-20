@@ -57,7 +57,6 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 
 * [Vert.x Web](https://github.com/vert-x3/vertx-web)  <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Full featured web toolkit for Vert.x.
 * [Vert.x Jersey](https://github.com/englishtown/vertx-jersey) - Create JAX-RS [Jersey](https://jersey.java.net/) resources in Vert.x.
-* [Vert.x Nubes](https://github.com/aesteve/vertx-nubes) - Provides an annotation layer on top of Vert.x Web.
 * [Kovert](https://github.com/kohesive/kovert) - Invisible REST framework for Kotlin + Vert.x Web.
 * [Handlers](https://github.com/spriet2000/vertx-handlers-http) - Open web framework for Vert.x.
 * [QBit](https://github.com/advantageous/qbit) - REST and WebSocket method call marshaling and reactive library.
