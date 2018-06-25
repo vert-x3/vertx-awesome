@@ -21,7 +21,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 - [Web Frameworks](#web-frameworks)
 - [Authentication Authorisation](#authentication-authorisation)
 - [Database Clients](#database-clients)
-- [Integration](#integration)f
+- [Integration](#integration)
 - [Middleware](#middleware)
 - [Language Support](#language-support)
 - [Reactive](#reactive)
