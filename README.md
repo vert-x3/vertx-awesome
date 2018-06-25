@@ -10,7 +10,7 @@ If you want your component to appear here send a pull request to this repository
 Please note that we can't vouch for the stability or production-worthiness of everything on this list unless it has
 the icon <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px">
 next to it. This icon means the component is part of the official
-[Vert.x stack](http://vert-x3.github.io/docs/).
+[Vert.x stack](https://vertx.io/docs/).
 
 For Vert.x version 2 check [this page](./vert-x2.md).
 
@@ -143,6 +143,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * Metrics
   * [Hawkular metrics](https://github.com/tsegismont/vertx-monitor) - [Hawkular](http://www.hawkular.org/) implementation of the Vert.x Metrics SPI.
   * [DropWizard metrics](https://github.com/vert-x3/vertx-dropwizard-metrics) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Metrics implementation using DropWizard metrics.
+  * [Micrometer metrics](https://github.com/vert-x3/vertx-micrometer-metrics) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Metrics implementation using Micrometer metrics.
   * [OpenTsDb Metrics](https://github.com/cyngn/vertx-opentsdb) - [OpenTsDb](http://opentsdb.net/) metrics client for Vert.x.
   * [Bosun Monitoring](https://github.com/cyngn/vertx-bosun) - [Bosun](https://bosun.org/) client library for Vert.x.
 
@@ -219,7 +220,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [JGroups Cluster Manager](https://github.com/vert-x3/vertx-jgroups) - JGroups cluster manager.
 * [Zookeeper Cluster Manager](https://github.com/vert-x3/vertx-zookeeper) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Zookeeper cluster manager.
 * [Atomix Cluster Manager](https://github.com/atomix/atomix-vertx) - An [Atomix](http://atomix.io) based cluster manager implementation for Vert.x 3.
-* [Infinispan Cluster Manager](https://github.com/vert-x3/vertx-infinispan) - Infinispan cluster manager.
+* [Infinispan Cluster Manager](https://github.com/vert-x3/vertx-infinispan) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Infinispan cluster manager.
 
 ## Cloud Support
 
@@ -278,6 +279,8 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 
 ## Development Tools
 
+* [Vert.x shell](https://github.com/vert-x3/vertx-shell)  <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - allows interaction with Vert.x from the command line.
+* [Vert.x health check](https://github.com/vert-x3/vertx-health-check) - allows remote health checking in Vert.x projects.
 * [Vert.x Hot](https://github.com/dazraf/vertx-hot) - A Maven plugin for the hot-deploy of Maven Vert.x projects.
 * [slush-vertx](https://www.npmjs.com/package/slush-vertx) - A template driven Vert.x project generator for different languages and build tools.
 * [Vert.x for Visual Studio Code](https://github.com/pmlopes/VertxSnippet) - A Visual Studio Code (polyglot) plugin for Vert.x. Also available from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=pmlopes.vertxsnippet).
@@ -339,6 +342,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 - [User Group](https://groups.google.com/forum/?fromgroups#!forum/vertx) - Discuss all user issues related to *using* Vert.x.
 - [Developer Group](https://groups.google.com/forum/?fromgroups#!forum/vertx-dev) - A group for Vert.x core *developers* and *contributors*.
 - [IRC channel](https://webchat.freenode.net/?channels=#vertx) - This is our day-to-day office: #vertx on freenode.net.
+- [Glitter chat](https://gitter.im/eclipse-vertx/vertx-users) general chat for Vert.x releated chat.
 - [Issues](https://github.com/vert-x3/issues/issues) - Vert.x core issue tracker.
 - [Wiki](https://github.com/vert-x3/wiki/wiki) - Contains useful information about Vert.x.
 - [Learning Materials](http://vertx.io/materials/) - A list of articles and presentations on Vert.x.
