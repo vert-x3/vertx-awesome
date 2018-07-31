@@ -69,7 +69,6 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [REST.VertX](https://github.com/zandero/rest.vertx) - Lightweight JAX-RS (RestEasy) like annotation processor for Vert.x verticals.
 * [Atmosphere Vert.x](https://github.com/Atmosphere/atmosphere-vertx) - Realtime Client Server Framework for the JVM, supporting WebSockets and Server Sent Events with Cross-Browser Fallbacks.
 * [Vert.x Vaadin](https://github.com/mcollovati/vertx-vaadin) - Run Vaadin applications on Vert.x.
-* [Nannoq-Web](https://noriginmedia.github.io/nannoq-tools/web) - REST (Level 3) controller implementation that is based on vertx-web and leverages repository from nannoq-tools for data store access. Fully generic queries with caching.
 
 ## Authentication Authorisation
 
@@ -82,7 +81,6 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [Vert.x Auth htpasswd](https://github.com/vert-x3/vertx-auth/tree/master/vertx-auth-htpasswd) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Authorisation/Authentication based on [htpasswd](https://httpd.apache.org/docs/2.4/programs/htpasswd.html)
 
 * [Vert.x-Pac4j](https://github.com/pac4j/vertx-pac4j) - Vert.x authentication/authorisation implemented using [pac4j](http://www.pac4j.org/).
-* [Nannoq Auth](https://noriginmedia.github.io/nannoq-tools/auth) - Toolkit for managing JWT's. Creation, Verification, Revocation and multi-tenant. Supports Oauth based login from Facebook, Google and Instagram.
 
 ## Database Clients
 
@@ -102,9 +100,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
   * [OrientDB](https://github.com/cstamas/vertx-orientdb) - Non-blocking OrientDB server integration.
   * [Bitsy](https://github.com/cstamas/vertx-bitsy) - Non-blocking Bitsy Graph server integration.
   * [MarkLogic](https://github.com/etourdot/vertx-marklogic) - Asynchronous client for Marklogic Database Server.
-  * [Nannoq Repository](https://noriginmedia.github.io/nannoq-tools/repository) - Full integration with DynamoDB, backed by DynamoDBMapper. Clustered caching + etag support. Generic queries. Define models and query for anything.
- 
-* [Nannoq Repository](https://noriginmedia.github.io/nannoq-tools/repository) - Generic repository for multiple datasources.
+
 * [vertx-pojo-mapper](https://github.com/BraintagsGmbH/vertx-pojo-mapper) - Non-blocking POJO mapping for MySQL and MongoDB.
 * [vertx-mysql-binlog-client](https://github.com/guoyu511/vertx-mysql-binlog-client) - A Vert.x client for tapping into MySQL replication stream.
 * [vertx-mongo-streams](https://github.com/st-h/vertx-mongo-streams) - Helpers to pump Vert.x streams to/from MongoDB GridFS using the MongoDB async driver.
@@ -160,8 +156,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 
 * Push Notifications
   * [Onesignal](https://github.com/jklingsporn/vertx-push-onesignal) - Send push notifications to (mobile/web) apps from your Vertx application with [OneSignal](https://onesignal.com/).
-  * [Nannoq FCM](https://noriginmedia.github.io/nannoq-tools/fcm) - Full XMPP Integration for Firebase Cloud Messaging. Plug and play backend, extendable for storing registration tokens and managing devices connected to user.
-  
+
 ## Middleware
 
 * [Apache Camel](https://github.com/apache/camel/blob/master/components/camel-vertx/src/main/docs/vertx-component.adoc) - [Apache Camel](http://camel.apache.org/) component for bridging Camel with the Vert.x event bus.
@@ -249,7 +244,6 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [Vert.x GraphQL Service Discovery](https://github.com/engagingspaces/vertx-graphql-service-discovery) - [GraphQL](http://graphql.org/) service discovery and querying for your Vert.x microservices.
 * [HTTP Request Multiplexer - Kalfor](https://github.com/derveloper/kalfor) - Combine multiple HTTP GET requests into a single POST. A dead simple alternative to Facebook's [GraphQL](http://graphql.org/) and Netflix's [Falcor](http://netflix.github.io/falcor/).
 * [Resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming. Resilience4j provides modules for Circuit Breaking, Rate Limiting, Bulkheading, Automatic retrying, Response caching and Metric measuring.
-* [Nannoq-Cluster](https://noriginmedia.github.io/nannoq-tools/cluster) - Collection of classes for managing services and API's in clustered Vert.x environments as well as helpers for clustering.
 
 ## Search Engines
 
@@ -343,6 +337,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [Vert.x Util](https://github.com/juanavelez/vertx-util) - A collection of Vert.x utility methods.
 * [Vert.x Web Accesslog](https://github.com/romanpierson/vertx-web-accesslog) - Just a simple handler to be used in Vert.x Web to generate access logs.
 * [Vert.x GraphQL Utils](http://github.com/tibor-kocsis/vertx-graphql-utils) - A route handler and Vert.x compatible interfaces to handle GraphQL queries in Vert.x and Vert.x Web.
+* [Nannoq-Tools](https://noriginmedia.github.io/nannoq-tools/) - Nannoq-Tools is a toolkit for constructing robust, scalable and distributed applications leveraging Vert.x including modules for authentication, cluster management, Firebase Cloud Messaging, DynamoDB, fully generic queries, REST, and more.
 
 ## Community
 
