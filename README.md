@@ -230,7 +230,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [Zookeeper Cluster Manager](https://github.com/vert-x3/vertx-zookeeper) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Zookeeper cluster manager.
 * [Atomix Cluster Manager](https://github.com/atomix/atomix-vertx) - An [Atomix](http://atomix.io) based cluster manager implementation for Vert.x 3.
 * [Infinispan Cluster Manager](https://github.com/vert-x3/vertx-infinispan) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Infinispan cluster manager.
-* [Consul Cluster Manager](https://github.com/romalev/vertx-consul-cluster-manager) - Consul cluster manager.
+* [Consul Cluster Manager](https://github.com/reactiverse/consul-cluster-manager) - Consul cluster manager.
 
 ## Cloud Support
 
