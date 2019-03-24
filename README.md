@@ -32,6 +32,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 - [Docker](#docker)
 - [Microservices](#microservices)
 - [Search Engines](#search-engines)
+- [Template Engines](#template-engines)
 - [Service Factory](#service-factory)
 - [Config](#config)
 - [Dependency Injection](#dependency-injection)
@@ -264,6 +265,10 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [Vert.x Elasticsearch Service](https://github.com/englishtown/vertx-elasticsearch-service) - Vert.x 3 [Elasticsearch](https://www.elastic.co/) service with event bus proxying.
 * [Vert.x Elasticsearch Service (redesign)](https://github.com/hubrick/vertx-elasticsearch-service) - Vert.x 3 [Elasticsearch](https://www.elastic.co/) service with event bus proxying. Redesign of the [Vert.x Elasticsearch Service](https://github.com/englishtown/vertx-elasticsearch-service). Heavy usage of DTOs over eventbus and no more JsonObjects. Added support for ES plugins.
 * [Vert.x Solr Service](https://github.com/englishtown/vertx-solr-service) - Vert.x 3 Solr service with event bus proxying.
+
+## Template Engines
+
+* [KorTE Template Engine](https://github.com/korlibs/korte) - Kotlin Template Engine similar to Twig/Django/Liquid supporting calling Kotlin suspend methods.
 
 ## Service Factory
 
