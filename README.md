@@ -54,6 +54,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 
 * [Vert.x Maven plugin](https://github.com/fabric8io/vertx-maven-plugin)
 * [Vert.x Gradle plugin](https://plugins.gradle.org/plugin/io.vertx.vertx-plugin)
+* [Vert.x Codegen Gradle plugin](https://github.com/bulivlad/vertx-codegen-plugin) - A Gradle plugin to facilitate the codegen usage for Vert.x Java projects
 
 ## Web Frameworks
 
