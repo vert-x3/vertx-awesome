@@ -172,6 +172,8 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [Apache Camel](https://github.com/apache/camel/blob/master/components/camel-vertx/src/main/docs/vertx-component.adoc) - [Apache Camel](http://camel.apache.org/) component for bridging Camel with the Vert.x event bus.
 * [Gateleen](https://github.com/swisspush/gateleen) - Middleware library based on Vert.x to build advanced JSON/REST communication servers.
 * [Gravitee.io](https://gravitee.io) - An OSS API Platform including an API Gateway and an OAuth2 / OIDC authorization server based on Vert.x Core / Vert.x Web and other modules.
+* [API Framework](https://github.com/vinscom/api-framework) - Vertx and Glue based microservice framework removing distinction between standalone and serveless application. All services can run in standalone server, but, if required, same codebase can be used to run any service as serverless application.
+
 
 ## Language Support
 
@@ -289,6 +291,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [QBit](https://github.com/advantageous/qbit) - QBit works with Spring DI and Spring Boot (and of course Vert.x). Allows you to use QBit, Vert.x, Spring DI and Spring Boot in the same application.
 * [Vert.x Eclipse SISU](https://github.com/cstamas/vertx-sisu) - Vert.x integration with [Eclipse SISU](https://www.eclipse.org/sisu/) DI container.
 * [Vert.x Spring Verticle Factory](https://github.com/juanavelez/vertx-spring-verticle-factory) - A Vert.x Verticle Factory that makes use of Spring to obtain and configure Verticles.
+* [Glue](https://github.com/vinscom/glue) - Proven and opinionated programming, and configuration model for Java and Vertx based applications. Inspired from ATG Nucleus, provides powerful layer base configuration management using simple properties file.
 
 ## Testing
 
