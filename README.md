@@ -293,6 +293,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 ## Testing
 
 * [Vert.x Unit](https://github.com/vert-x3/vertx-unit) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Async polyglot unit testing for Vert.x.
+* [Vert.x JUnit5](https://github.com/vert-x3/vertx-junit5) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Async unit testing for Vert.x with junit5.
 
 ## Development Tools
 
