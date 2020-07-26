@@ -233,7 +233,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [Smalltalk](https://github.com/mumez/VerStix)- Event bus client for [Pharo Smalltalk](http://pharo.org/) using the [TCP-based protocol](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
 * [Java](https://github.com/nielsbaloe/vertxui/tree/master/vertxui-core/src/main/java/live/connector/vertxui/client/transport) - Event bus support in JavaScript through Java code.
 * [Elixir](https://github.com/PharosProduction/ExVertx) - Event bus support for Elixir apps using TCP socket.
-* [Rust](https://https://github.com/aesteve/vertx-eventbus-client-rs) - Event bus client for Rust applications through TCP
+* [Rust](https://github.com/aesteve/vertx-eventbus-client-rs) - Event bus client for Rust applications through TCP
 
 ## Cluster Managers
 
