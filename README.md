@@ -210,6 +210,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [vertx-util](https://github.com/cyngn/vertx-util) - Light weight promises & latches for Vert.x.
 * [QBit](https://github.com/advantageous/qbit) - Async typed actor-like lib that runs easily in Vert.x Async Callbacks. Callback management.
 * [VxRifa](https://nsforth.github.io/vxrifa) - Utility library for Vert.X that allows using strong-typed interfaces in communication through EventBus.
+* [Vertx Effect](https://github.com/imrafaelmerino/vertx-effect) - Pure functional and reactive library based on the IO Monad to implement any complex flow. Full support for retry, fallback and recovery operations. 
 
 ## Sync Thread Non Block
 
