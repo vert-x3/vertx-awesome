@@ -128,6 +128,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
   * [Vert.x REST Client](https://github.com/hubrick/vertx-rest-client) - A REST client for Vert.x with support for RxJava and request caching.
   * [Retrofit adapter for Vert.x](https://github.com/vietj/retrofit-vertx) - A highly scalable adapter for Retrofit with Vert.x.
   * [openapi4j adapter for Vert.x](https://github.com/openapi4j/openapi4j/tree/master/openapi-operation-adapters/openapi-operation-vertx) - OpenAPI 3 request validator and router factory alternative.
+  * [Vertx Effect HTTP client](https://github.com/imrafaelmerino/vertx-effect) - Pure functional and reactive HTTP client using [Vertx Effect](https://github.com/imrafaelmerino/vertx-effect) with OAuth support and retry, fallback and recovery operations.
 
 * File Server
   * [Vert.x TFTP Client](https://github.com/OneManCrew/vertx-tftp-client) - TFTP client for Vert.x support download/upload files.
