@@ -109,6 +109,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
   * [SirixDB](https://github.com/sirixdb/sirix/tree/master/bundles/sirix-rest-api) - Non-blocking SirixDB HTTP-server.
   * [DGraph](https://github.com/aesteve/vertx-dgraph-client) - An example on how to build a Vert.x gRPC compliant client. Here targeting [dgraph](https://dgraph.io)
   * [RxFirestore](https://github.com/pjgg/rxfirestore) - Non-blocking Firestore SDK written in a reactive way.
+  * [MongoDB](https://github.com/imrafaelmerino/vertx-mongodb-effect) - Pure functional and reactive MongoDB client on top of [Vertx Effect](https://github.com/imrafaelmerino/vertx-mongodb-effect). Full support for retry, fallback and recovery operations.
 
 * [vertx-pojo-mapper](https://github.com/BraintagsGmbH/vertx-pojo-mapper) - Non-blocking POJO mapping for MySQL and MongoDB.
 * [vertx-mysql-binlog-client](https://github.com/guoyu511/vertx-mysql-binlog-client) - A Vert.x client for tapping into MySQL replication stream.
@@ -127,6 +128,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
   * [Vert.x REST Client](https://github.com/hubrick/vertx-rest-client) - A REST client for Vert.x with support for RxJava and request caching.
   * [Retrofit adapter for Vert.x](https://github.com/vietj/retrofit-vertx) - A highly scalable adapter for Retrofit with Vert.x.
   * [openapi4j adapter for Vert.x](https://github.com/openapi4j/openapi4j/tree/master/openapi-operation-adapters/openapi-operation-vertx) - OpenAPI 3 request validator and router factory alternative.
+  * [Vertx Effect HTTP client](https://github.com/imrafaelmerino/vertx-effect) - Pure functional and reactive HTTP client using [Vertx Effect](https://github.com/imrafaelmerino/vertx-effect) with OAuth support and retry, fallback and recovery operations.
 
 * File Server
   * [Vert.x TFTP Client](https://github.com/OneManCrew/vertx-tftp-client) - TFTP client for Vert.x support download/upload files.
@@ -208,6 +210,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [vertx-util](https://github.com/cyngn/vertx-util) - Light weight promises & latches for Vert.x.
 * [QBit](https://github.com/advantageous/qbit) - Async typed actor-like lib that runs easily in Vert.x Async Callbacks. Callback management.
 * [VxRifa](https://nsforth.github.io/vxrifa) - Utility library for Vert.X that allows using strong-typed interfaces in communication through EventBus.
+* [Vertx Effect](https://github.com/imrafaelmerino/vertx-effect) - Pure functional and reactive library based on the IO Monad to implement any complex flow. Full support for retry, fallback and recovery operations. 
 
 ## Sync Thread Non Block
 
