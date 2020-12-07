@@ -400,6 +400,11 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 - [Secure Your Vertx 3 App With Pac4j](https://dzone.com/articles/secure-your-vertx)
 - [Interview with Tim Fox About Vert.x 3, the Original Reactive, Microservice Toolkit for the JVM ](http://www.infoq.com/articles/vertx-3-tim-fox)
 
+## Tutorials
+
+- [Vert.x - From zero to (micro-) hero](http://escoffier.me/vertx-hol)
+- [Introduction to Vert.x](https://vertx.io/blog/posts/introduction-to-vertx.html)
+
 ## Social events / Meetups
 
 - [Amsterdam/The Netherlands](https://www.meetup.com/Vert-x-NL)
