@@ -3,7 +3,7 @@
 [<img src="vertx-logo.svg" align="right" width="250">](http://vertx.io)
 
 *Awesome Vert.x* is a list of awesome frameworks, libraries or other components for use with or that use
-[Vert.x](https://github.com/eclipse/vert.x) version 3.
+[Vert.x](https://github.com/eclipse/vert.x) version.
 
 If you want your component to appear here send a pull request to this repository to add it.
 
