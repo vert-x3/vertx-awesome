@@ -387,7 +387,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 - [Blog](http://vertx.io/blog/) - The official Vert.x blog containing many tutorials and other information.
 - [2017 Events](https://github.com/vert-x3/wiki/wiki/Vert.x-2017-Events) - A list of 2017 Vert.x talks and presentations.
 
-## Learning materials
+## Articles
 
 - [Going reactive with Eclipse Vert.x and RX Java ](http://www.javamagazine.mozaicreader.com/JanFeb2018#&pageSet=32&page=0)
 - [First Steps With Vert.x and Infinispan - Part 2: PUSH API ](https://dzone.com/articles/first-steps-with-vertx-and-infinispan-push-api-par)
