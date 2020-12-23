@@ -147,7 +147,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
   * [AMQP 1.0 - Kafka bridge](https://github.com/rhiot/amqp-kafka-bridge) - Bridge for sending/receiving messages to/from Apache Kafka using the AMQP 1.0 protocol.
   * [Vert.x Kafka Client](https://github.com/vert-x3/vertx-kafka-client) <img src="vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Apache Kafka client for reading and sending messages from/to an Apache Kafka cluster.
   * [The White Rabbit](https://github.com/viartemev/the-white-rabbit) - An asynchronous RabbitMQ (AMQP) client based on Kotlin coroutines.
-  * [WAMP Broker](https://github.com/i22-digitalagentur/vertx-wamp) - a WAMP broker you can embed into your Vert.x application.
+  * [WAMP Broker](https://github.com/i22-digitalagentur/vertx-wamp) - A WAMP broker you can embed into your Vert.x application.
 
 * JavaEE
   * [JCA adaptor](https://github.com/vert-x3/vertx-jca) <img src="vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Java Connector Architecture Adaptor for the Vert.x event bus.
