@@ -73,6 +73,8 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [Vert.x Vaadin](https://github.com/mcollovati/vertx-vaadin) - Run Vaadin applications on Vert.x.
 * [Serverx](https://github.com/lukehutch/serverx) - Allows you to quickly and easily set up a Vert.x-powered server using only route handler annotations.
 * [Cloudopt Next](https://github.com/cloudoptlab/cloudopt-next) - Cloudopt Next is a very lightweight and modern, JVM-based, full stack kotlin framework designed for building modular, easily testable JVM applications with support for Java, Kotlin language, crafted from the best of breed Java libraries and standards.
+* [Donkey](https://github.com/AppsFlyer/donkey) - Modern Clojure HTTP server 
+  and client built for ease of use and performance
 
 ## Authentication Authorisation
 
