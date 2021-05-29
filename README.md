@@ -27,6 +27,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 - [Reactive](#reactive)
 - [Sync Thread Non Block](#sync-thread-non-block)
 - [Vert.x Event Bus Clients](#vertx-event-bus-clients)
+- [Vert.x Event Bus Extensions](#vertx-event-bus-extensions)
 - [Cluster Managers](#cluster-managers)
 - [Cloud Support](#cloud-support)
 - [Docker](#docker)
@@ -238,6 +239,10 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [Java](https://github.com/nielsbaloe/vertxui/tree/master/vertxui-core/src/main/java/live/connector/vertxui/client/transport) - Event bus support in JavaScript through Java code.
 * [Elixir](https://github.com/PharosProduction/ExVertx) - Event bus support for Elixir apps using TCP socket.
 * [Rust](https://github.com/aesteve/vertx-eventbus-client-rs) - Event bus client for Rust applications through TCP.
+
+## Vert.x Event Bus Extensions
+
+* [Eventbus Service](https://github.com/wowselim/eventbus-service) - Code generator for type-safe event bus communication via simple Kotlin interfaces.
 
 ## Cluster Managers
 
