@@ -416,7 +416,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 ## Tutorials
 
 - [Vert.x - From zero to (micro-) hero](http://escoffier.me/vertx-hol)
-- [Introduction to Vert.x](https://developers.redhat.com/blog/2018/03/13/eclipse-vertx-first-application)
+- [Introduction to Vert.x](https://vertx.io/get-started/)
 
 ## Social events / Meetups
 
