@@ -75,7 +75,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [Serverx](https://github.com/lukehutch/serverx) - Allows you to quickly and easily set up a Vert.x-powered server using only route handler annotations.
 * [Cloudopt Next](https://github.com/cloudoptlab/cloudopt-next) - Cloudopt Next is a very lightweight and modern, JVM-based, full stack kotlin framework designed for building modular, easily testable JVM applications with support for Java, Kotlin language, crafted from the best of breed Java libraries and standards.
 * [Donkey](https://github.com/AppsFlyer/donkey) - Modern Clojure HTTP server and client built for ease of use and performance.
-* [SCX](https://github.com/scx567888/scx) - An open and easy-to-use web framework.
+* [SCX](https://github.com/scx567888/scx) - An open and easy-to-use web framework , most functions are based on annotation.
 
 ## Authentication Authorisation
 
