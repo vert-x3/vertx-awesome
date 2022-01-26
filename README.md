@@ -396,11 +396,10 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 
 - [User Group](https://groups.google.com/forum/?fromgroups#!forum/vertx) - Discuss all user issues related to *using* Vert.x.
 - [Developer Group](https://groups.google.com/forum/?fromgroups#!forum/vertx-dev) - A group for Vert.x core *developers* and *contributors*.
-- [Gitter chat](https://gitter.im/eclipse-vertx/vertx-users) general chat for Vert.x releated chat.
+- [Discord Server](https://discord.gg/KzEMwP2) - Chat about any Vert.x-related topic.
 - [Issues](https://github.com/vert-x3/issues/issues) - Vert.x core issue tracker.
 - [Wiki](https://github.com/vert-x3/wiki/wiki) - Contains useful information about Vert.x.
 - [Blog](http://vertx.io/blog/) - The official Vert.x blog containing many tutorials and other information.
-- [2017 Events](https://github.com/vert-x3/wiki/wiki/Vert.x-2017-Events) - A list of 2017 Vert.x talks and presentations.
 
 ## Articles
 
