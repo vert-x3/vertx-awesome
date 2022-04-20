@@ -51,7 +51,7 @@ next to it. This icon means the component is part of the official
 
 ## Build tools
 
-* [Vert.x Maven plugin](https://github.com/fabric8io/vertx-maven-plugin)
+* [Vert.x Maven plugin](https://github.com/reactiverse/vertx-maven-plugin)
 * [Vert.x Gradle plugin](https://plugins.gradle.org/plugin/io.vertx.vertx-plugin)
 * [Vert.x Codegen Gradle plugin](https://github.com/bulivlad/vertx-codegen-plugin) - A Gradle plugin to facilitate the codegen usage for Vert.x Java projects.
 
