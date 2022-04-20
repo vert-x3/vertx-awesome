@@ -1,0 +1,28 @@
+{
+  "name": "vertx-awesome",
+  "version": "1.0.0",
+  "description": "A curated list of awesome Vert.x resources, libraries, and other nice things.",
+  "private": true,
+  "scripts": {
+    "markdown-link-check": "markdown-link-check ./README.md -p -v -c .markdown-link-check.json",
+    "markdownlint": "markdownlint README.md CONTRIBUTING.md",
+    "lint": "npm run markdownlint && npm run markdown-link-check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vert-x3/vertx-awesome.git"
+  },
+  "keywords": [
+    "Vert.x",
+    "Awesome"
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/vert-x3/vertx-awesome/issues"
+  },
+  "homepage": "https://github.com/vert-x3/vertx-awesome#readme",
+  "devDependencies": {
+    "markdown-link-check": "^3.10.0",
+    "markdownlint-cli": "^0.31.1"
+  }
+}

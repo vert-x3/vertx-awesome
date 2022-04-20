@@ -1,0 +1,17 @@
+default: true
+
+# MD004/ul-style - Unordered list style
+MD004:
+  style: "consistent"
+
+# MD013/line-length - Line length
+MD013: false
+
+# MD033/no-inline-html - Inline HTML
+MD033:
+  # Allowed elements
+  allowed_elements:
+    - img
+
+# MD036/no-emphasis-as-heading/no-emphasis-as-header - Emphasis used instead of a heading
+MD036: false
