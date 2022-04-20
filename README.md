@@ -12,8 +12,6 @@ the icon <img src="vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height=
 next to it. This icon means the component is part of the official
 [Vert.x stack](https://vertx.io/docs/).
 
-For Vert.x version 2 check [this page](./vert-x2.md).
-
 ## Contents
 
 * [Books](#books)
