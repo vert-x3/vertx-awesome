@@ -2,10 +2,10 @@
 
 [<img src="vertx-logo.svg" align="right" width="250">](http://vertx.io)
 
-*Awesome Vert.x* is a list of awesome frameworks, libraries or other components for use with or that use
-[Vert.x](https://github.com/eclipse/vert.x) version.
+*Awesome Vert.x* is a list of awesome frameworks, libraries or other components related to
+[Vert.x](https://github.com/eclipse/vert.x).
 
-If you want your component to appear here send a pull request to this repository to add it.
+If you want your component to appear here, send a pull request to this repository to add it.
 
 Please note that we can't vouch for the stability or production-worthiness of everything on this list unless it has
 the icon <img src="vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px">
