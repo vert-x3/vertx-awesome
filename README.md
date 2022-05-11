@@ -362,7 +362,7 @@ next to it. This icon means the component is part of the official
 * [Cloud Foundry](https://github.com/amdelamar/vertx-cloudfoundry) - An example Vert.x for deploying to a [Cloud Foundry](https://www.cloudfoundry.org/) service provider.
 * [Knative](https://github.com/knative/docs/tree/main/code-samples/community/serving/helloworld-vertx) - An example application on how to use [Reactive Extensions Vert.x](https://github.com/vert-x3/vertx-rx) with [Knative](https://github.com/knative).
 * [Starter Single Verticle API](https://github.com/jgarciasm/ssv-api) - REST API Starter and Project Template ready to deploy with lots of plumbing code, examples, and documentation to quickly develope an API with almost no knowledge of vert.x and without any waste of time.
-* [Ai model output API base on pmml with Vert.x](https://github.com/immusen/vertx-pmml) - High performance pmml evaluator api base on Vert.x, Supports dynamic routing configuration for multiple pmml models via JSON.
+* [AI model output API based on PMML with Vert.x](https://github.com/immusen/vertx-pmml) - High performance PMML evaluator API based on Vert.x. Supports dynamic routing configuration for multiple PMML models via JSON.
 
 ## Deployment
 
