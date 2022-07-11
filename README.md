@@ -335,6 +335,7 @@ next to it. This icon means the component is part of the official
 * [Simple File Server](https://github.com/pitchpoint-solutions/sfs) - An OpenStack Swift compatible distributed object storage server that can serve and securely store billions of large and small files using minimal resources implemented using Vert.x.
 * [Vert.x Boot](https://github.com/jponge/vertx-boot) - Deploying verticles from a HOCON configuration.
 * [GDH](https://github.com/maxamel/GDH) - Generalized Diffie-Hellman key exchange Java library built on top of Vert.x.
+* [vertx-values](https://github.com/imrafaelmerino/vertx-values) - Send the immutable and persistent JSON from [json-values](https://github.com/imrafaelmerino/json-values) across the Event Bus.
 
 ## Distribution
 
