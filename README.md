@@ -127,7 +127,6 @@ next to it. This icon means the component is part of the official
   * [vertx-smtp-server](https://github.com/cinterloper/vertx-smtp-server) - SMTP server bridging to EventBus.
 
 * REST
-  * [Vert.x REST Client](https://github.com/hubrick/vertx-rest-client) - A REST client for Vert.x with support for RxJava and request caching.
   * [Retrofit adapter for Vert.x](https://github.com/vietj/retrofit-vertx) - A highly scalable adapter for Retrofit with Vert.x.
   * [openapi4j adapter for Vert.x](https://github.com/openapi4j/openapi4j/tree/master/openapi-operation-adapters/openapi-operation-vertx) - OpenAPI 3 request validator and router factory alternative.
   * [Vert.x Effect HTTP client](https://github.com/imrafaelmerino/vertx-effect) - Pure functional and reactive HTTP client using [Vert.x Effect](https://github.com/imrafaelmerino/vertx-effect) with OAuth support and retry, fallback and recovery operations.
@@ -140,7 +139,6 @@ next to it. This icon means the component is part of the official
   * [RabbitMQ](https://github.com/vert-x3/vertx-rabbitmq-client) <img src="vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - A RabbitMQ client (AMQP 0.9.1).
   * [Kafka Client](https://github.com/vert-x3/vertx-kafka-client) <img src="vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - A Kafka client.
   * [kafka](https://github.com/cyngn/vertx-kafka) - Kafka client for consuming and producing messages.
-  * [Kafka Service](https://github.com/hubrick/vertx-kafka-service) - Kafka producer and consumer with retry logic.
   * [SaltStack](https://github.com/cinterloper/vertx-salt) - A bi-directional bridge between the SaltStack event system and the Vert.x event bus.
   * [STOMP](https://github.com/vert-x3/vertx-stomp) <img src="vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - A Kafka client and server.
   * [ZeroMQ](https://github.com/dano/vertx-zeromq) - ZeroMQ Event Bus bridge.
@@ -257,7 +255,6 @@ next to it. This icon means the component is part of the official
 
 * [OpenShift DIY cartridge](https://github.com/vert-x3/vertx-openshift-diy-quickstart) <img src="vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - OpenShift DIY Cartridge using Vert.x.
 * [OpenShift Vert.x cartridge](https://github.com/vert-x3/vertx-openshift-cartridge) <img src="vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - OpenShift Vert.x Cartridge using Vert.x.
-* [S3](https://github.com/hubrick/vertx-s3-client) - A fully functional Vert.x client for S3.
 * [AWS SDK](https://github.com/reactiverse/aws-sdk) - Use AWS Java SDK v2 (async) with Vert.x
 
 ## Docker
@@ -281,7 +278,7 @@ next to it. This icon means the component is part of the official
 ## Search Engines
 
 * [Vert.x Elasticsearch Service](https://github.com/englishtown/vertx-elasticsearch-service) - Vert.x 3 [Elasticsearch](https://www.elastic.co/) service with event bus proxying.
-* [Vert.x Elasticsearch Service (redesign)](https://github.com/hubrick/vertx-elasticsearch-service) - Vert.x 3 [Elasticsearch](https://www.elastic.co/) service with event bus proxying. Redesign of the [Vert.x Elasticsearch Service](https://github.com/englishtown/vertx-elasticsearch-service). Heavy usage of DTOs over eventbus and no more JsonObjects. Added support for ES plugins.
+service with event bus proxying. Redesign of the [Vert.x Elasticsearch Service](https://github.com/englishtown/vertx-elasticsearch-service). Heavy usage of DTOs over eventbus and no more JsonObjects. Added support for ES plugins.
 * [Vert.x Solr Service](https://github.com/englishtown/vertx-solr-service) - Vert.x 3 Solr service with event bus proxying.
 
 ## Template Engines
