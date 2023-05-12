@@ -72,6 +72,7 @@ next to it. This icon means the component is part of the official
 * [Cloudopt Next](https://github.com/cloudoptlab/cloudopt-next) - Cloudopt Next is a very lightweight and modern, JVM-based, full stack kotlin framework designed for building modular, easily testable JVM applications with support for Java, Kotlin language, crafted from the best of breed Java libraries and standards.
 * [Donkey](https://github.com/AppsFlyer/donkey) - Modern Clojure HTTP server and client built for ease of use and performance.
 * [SCX](https://github.com/scx567888/scx) - An open and easy-to-use web framework, most functions are based on annotations.
+* [vertx-rest](https://github.com/dream11/vertx-rest) - Abstraction over resteasy-vertx to simplify writing a vertx REST application based on JAX-RS annotations
 
 ## Authentication Authorisation
 
