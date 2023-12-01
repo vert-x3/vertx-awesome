@@ -30,7 +30,6 @@ next to it. This icon means the component is part of the official
 * [Cloud Support](#cloud-support)
 * [Microservices](#microservices)
 * [Search Engines](#search-engines)
-* [Template Engines](#template-engines)
 * [Service Factory](#service-factory)
 * [Config](#config)
 * [Dependency Injection](#dependency-injection)
@@ -45,7 +44,7 @@ next to it. This icon means the component is part of the official
 
 ## Books
 
-* [Building Reactive Microservices in Java](https://developers.redhat.com/promotions/building-reactive-microservices-in-java/) by Clément Escoffier
+* [Building Reactive Microservices in Java](https://www.oreilly.com/library/view/building-reactive-microservices/9781491986295/) by Clément Escoffier
 * [Vert.x in Action](https://www.manning.com/books/vertx-in-action) by Julien Ponge
 
 ## Build tools
@@ -277,10 +276,6 @@ next to it. This icon means the component is part of the official
 * [Vert.x Elasticsearch Service](https://github.com/englishtown/vertx-elasticsearch-service) - Vert.x 3 [Elasticsearch](https://www.elastic.co/) service with event bus proxying.
 * [Vert.x Solr Service](https://github.com/englishtown/vertx-solr-service) - Vert.x 3 Solr service with event bus proxying.
 
-## Template Engines
-
-* [KorTE Template Engine](https://github.com/korlibs/korte) - Kotlin Template Engine similar to Twig/Django/Liquid supporting calling Kotlin suspend methods.
-
 ## Service Factory
 
 * [Service Factory](https://github.com/vert-x3/vertx-service-factory) <img src="vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x Service Factory.
@@ -397,14 +392,7 @@ next to it. This icon means the component is part of the official
 ## Articles
 
 * [Going reactive with Eclipse Vert.x and RX Java](https://blogs.oracle.com/javamagazine/going-reactive-with-eclipse-vertx-and-rxjava)
-* [First Steps With Vert.x and Infinispan - Part 2: PUSH API](https://dzone.com/articles/first-steps-with-vertx-and-infinispan-push-api-par)
-* [First Steps With Vert.x and Infinispan - Part 1: REST API](https://dzone.com/articles/first-steps-with-vertx-and-infinispan-rest-api)
-* [Location Transparency With Vert.x](https://dzone.com/articles/location-transparency-with-vertx)
-* [Reactive Microservices and Service Discovery with Vert.x](https://dzone.com/articles/reactive-microservices-and-service-discovery-with)
-* [https://dzone.com/articles/vertx-330-development-automation](https://dzone.com/articles/vertx-330-development-automation)
 * [Vert.x 3.3.0 Features Enhanced Networking Microservices, Testing and More](https://www.infoq.com/news/2016/06/Vert.x-3.3.0-release-features)
-* [Launching Vert.x Dynamically](https://dzone.com/articles/vertx-launcher)
-* [Secure Your Vertx 3 App With Pac4j](https://dzone.com/articles/secure-your-vertx)
 * [Interview with Tim Fox About Vert.x 3, the Original Reactive, Microservice Toolkit for the JVM](http://www.infoq.com/articles/vertx-3-tim-fox)
 
 ## Tutorials
