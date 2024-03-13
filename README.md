@@ -171,6 +171,9 @@ next to it. This icon means the component is part of the official
 
 * CNCF CloudEvents
   * [CloudEvents.io Java SDK](https://github.com/cloudevents/sdk-java) - Send and receive [CloudEvents](https://cloudevents.io/) using the [Vert.x HTTP Transport](https://github.com/cloudevents/sdk-java/blob/master/http/vertx/README.md) for CloudEvents.
+ 
+* Business Process Management (BPM)
+  * [jBPM](https://www.jbpm.org/) - Integrate [jBPM](https://github.com/mswiderski/vert.x-jbpm) with Vert.x event bus.
 
 ## Middleware
 
