@@ -4,9 +4,9 @@
   "description": "A curated list of awesome Vert.x resources, libraries, and other nice things.",
   "private": true,
   "scripts": {
-    "markdown-link-check": "markdown-link-check ./README.md -p -v -c .markdown-link-check.json",
+    "lychee": "lychee ./README.md",
     "markdownlint": "markdownlint README.md CONTRIBUTING.md",
-    "lint": "npm run markdownlint && npm run markdown-link-check"
+    "lint": "npm run markdownlint && npm run lychee"
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/vert-x3/vertx-awesome#readme",
   "devDependencies": {
-    "markdown-link-check": "^3.12.2",
     "markdownlint-cli": "^0.41.0"
   }
 }
