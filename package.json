@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/vert-x3/vertx-awesome#readme",
   "devDependencies": {
-    "markdown-link-check": "^3.10.0",
-    "markdownlint-cli": "^0.31.1"
+    "markdown-link-check": "^3.12.2",
+    "markdownlint-cli": "^0.41.0"
   }
 }
