@@ -40,6 +40,7 @@ next to it. This icon means the component is part of the official
 * [Examples](#examples)
 * [Deployment](#deployment)
 * [Utilities](#utilities)
+* [Articles](#articles)
 * [Front-End](#front-end)
 
 ## Books
@@ -390,7 +391,7 @@ next to it. This icon means the component is part of the official
 * [Blog](http://vertx.io/blog/) - The official Vert.x blog containing many tutorials and other information.
 
 ## Articles
-
+* [Embracing Reactive Applications on JVM: a Deep Dive into Modern I/O Models and Vert.x](https://www.infoq.com/articles/reactive-java-vertx-deep-dive/)
 * [Going reactive with Eclipse Vert.x and RX Java](https://blogs.oracle.com/javamagazine/post/going-reactive-with-eclipse-vertx-and-rxjava)
 * [Vert.x 3.3.0 Features Enhanced Networking Microservices, Testing and More](https://www.infoq.com/news/2016/06/Vert.x-3.3.0-release-features)
 * [Interview with Tim Fox About Vert.x 3, the Original Reactive, Microservice Toolkit for the JVM](http://www.infoq.com/articles/vertx-3-tim-fox)
