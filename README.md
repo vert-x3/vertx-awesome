@@ -29,6 +29,7 @@ next to it. This icon means the component is part of the official
 * [Cluster Managers](#cluster-managers)
 * [Cloud Support](#cloud-support)
 * [Microservices](#microservices)
+* [Game development](#game-development)
 * [Search Engines](#search-engines)
 * [Service Factory](#service-factory)
 * [Config](#config)
@@ -272,6 +273,9 @@ next to it. This icon means the component is part of the official
 * [Autonomous Services](https://github.com/mikand13/autonomous-services) - A toolkit for creating autonomous services. An architecture that leverages vert.x and nannoq-tools to provide an event-based reactive architecure without centralized components, neither for communication or data, providing a theoretically linear scalability across the architecture.
 * [Apache ServiceComb Java Chassis](https://github.com/apache/servicecomb-java-chassis) - ServiceComb Java Chassis is a Software Development Kit (SDK) for rapid development of microservices in Java, providing service registration, service discovery, dynamic routing, and service management features.
 * [SmallRye Fault Tolerance](https://github.com/smallrye/smallrye-fault-tolerance) - SmallRye Fault Tolerance is an implementation of Eclipse MicroProfile Fault Tolerance with additional features not defined by the specification. Native support of [Vert.x](https://smallrye.io/docs/smallrye-fault-tolerance/6.2.6/integration/event-loop.html) and [Mutiny](https://smallrye.io/docs/smallrye-fault-tolerance/6.2.6/reference/asynchronous.html#async-types).
+
+## Game development
+* [Orbital](https://github.com/tfkfan/orbital) - Vert.x based reactive distributed game server and battle-royale multiplayers development tool. Orbital contains basic extensible matchmaker, game/game room management, websocket integration and game lifecycle management features. Closest to "Colyseus" game engine competitor. [Docs](https://tfkfan.github.io/orbital).
 
 ## Search Engines
 
